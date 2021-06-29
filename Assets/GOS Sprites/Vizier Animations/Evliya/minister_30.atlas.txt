@@ -1,0 +1,96 @@
+
+minister_30_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 2, 10
+  size: 78, 19
+  orig: 78, 19
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 593, 2
+  size: 332, 149
+  orig: 332, 149
+  offset: 0, 0
+  index: -1
+shou3
+  rotate: true
+  xy: 362, 336
+  size: 435, 565
+  orig: 435, 565
+  offset: 0, 0
+  index: -1
+shou4
+  rotate: true
+  xy: 362, 773
+  size: 246, 650
+  orig: 246, 650
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 744, 78
+  size: 256, 260
+  orig: 256, 260
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: false
+  xy: 2, 319
+  size: 358, 700
+  orig: 358, 700
+  offset: 0, 0
+  index: -1
+xiashen
+  rotate: true
+  xy: 2, 31
+  size: 286, 327
+  orig: 286, 327
+  offset: 0, 0
+  index: -1
+zhi
+  rotate: false
+  xy: 331, 43
+  size: 260, 274
+  orig: 260, 274
+  offset: 0, 0
+  index: -1
+
+minister_30_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beibao
+  rotate: false
+  xy: 2, 255
+  size: 352, 550
+  orig: 352, 550
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: false
+  xy: 356, 311
+  size: 337, 494
+  orig: 337, 494
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 2, 2
+  size: 127, 251
+  orig: 127, 251
+  offset: 0, 0
+  index: -1
+shou5
+  rotate: false
+  xy: 695, 293
+  size: 164, 512
+  orig: 164, 512
+  offset: 0, 0
+  index: -1

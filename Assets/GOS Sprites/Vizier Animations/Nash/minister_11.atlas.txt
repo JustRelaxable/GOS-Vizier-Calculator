@@ -1,0 +1,76 @@
+
+minister_11.png
+size: 987,683
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 498, 450
+  size: 231, 333
+  orig: 231, 333
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 315, 15
+  size: 88, 30
+  orig: 88, 30
+  offset: 0, 0
+  index: -1
+ling1
+  rotate: true
+  xy: 315, 47
+  size: 83, 198
+  orig: 83, 198
+  offset: 0, 0
+  index: -1
+ling2
+  rotate: false
+  xy: 811, 3
+  size: 70, 186
+  orig: 70, 186
+  offset: 0, 0
+  index: -1
+qun1
+  rotate: true
+  xy: 515, 2
+  size: 174, 294
+  orig: 174, 294
+  offset: 0, 0
+  index: -1
+qun2
+  rotate: true
+  xy: 2, 7
+  size: 123, 311
+  orig: 123, 311
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 2, 132
+  size: 494, 549
+  orig: 494, 549
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 498, 178
+  size: 262, 270
+  orig: 262, 270
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 833, 437
+  size: 131, 244
+  orig: 131, 244
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 762, 191
+  size: 244, 223
+  orig: 244, 223
+  offset: 0, 0
+  index: -1

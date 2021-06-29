@@ -1,0 +1,103 @@
+
+minister_4_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYE
+  rotate: false
+  xy: 473, 544
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+diaozui 1
+  rotate: true
+  xy: 325, 46
+  size: 42, 229
+  orig: 42, 229
+  offset: 0, 0
+  index: -1
+diaozui2
+  rotate: true
+  xy: 325, 2
+  size: 42, 170
+  orig: 42, 170
+  offset: 0, 0
+  index: -1
+diaozui3
+  rotate: false
+  xy: 815, 96
+  size: 38, 120
+  orig: 38, 120
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 2, 14
+  size: 321, 489
+  orig: 321, 489
+  offset: 0, 0
+  index: -1
+qunzi1
+  rotate: false
+  xy: 325, 90
+  size: 256, 413
+  orig: 256, 413
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: false
+  xy: 831, 218
+  size: 183, 402
+  orig: 183, 402
+  offset: 0, 0
+  index: -1
+qunzi4
+  rotate: false
+  xy: 2, 505
+  size: 469, 517
+  orig: 469, 517
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: true
+  xy: 473, 622
+  size: 400, 522
+  orig: 400, 522
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 583, 31
+  size: 223, 230
+  orig: 223, 230
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 583, 256
+  size: 246, 364
+  orig: 246, 364
+  offset: 0, 0
+  index: -1
+
+minister_4_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand
+  rotate: true
+  xy: 627, 13
+  size: 140, 292
+  orig: 140, 292
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 2, 2
+  size: 151, 623
+  orig: 151, 623
+  offset: 0, 0
+  index: -1

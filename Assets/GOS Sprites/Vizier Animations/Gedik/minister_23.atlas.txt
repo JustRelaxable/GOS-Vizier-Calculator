@@ -1,0 +1,62 @@
+
+minister_23.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYE
+  rotate: false
+  xy: 392, 402
+  size: 62, 18
+  orig: 62, 18
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 192, 242
+  size: 198, 178
+  orig: 198, 178
+  offset: 0, 0
+  index: -1
+dun
+  rotate: false
+  xy: 489, 703
+  size: 288, 303
+  orig: 288, 303
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 192, 161
+  size: 54, 79
+  orig: 54, 79
+  offset: 0, 0
+  index: -1
+qun
+  rotate: false
+  xy: 779, 795
+  size: 55, 211
+  orig: 55, 211
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 422
+  size: 485, 584
+  orig: 485, 584
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 2, 2
+  size: 188, 418
+  orig: 188, 418
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 489, 479
+  size: 118, 222
+  orig: 118, 222
+  offset: 0, 0
+  index: -1

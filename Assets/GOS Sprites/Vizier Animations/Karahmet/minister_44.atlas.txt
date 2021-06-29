@@ -1,0 +1,55 @@
+
+minister_44.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: true
+  xy: 978, 944
+  size: 75, 27
+  orig: 75, 27
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 8
+  size: 440, 394
+  orig: 440, 394
+  offset: 0, 0
+  index: -1
+shenti1
+  rotate: false
+  xy: 2, 404
+  size: 462, 615
+  orig: 462, 615
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 444, 2
+  size: 400, 305
+  orig: 400, 305
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 466, 467
+  size: 211, 552
+  orig: 211, 552
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 679, 566
+  size: 297, 453
+  orig: 297, 453
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 751, 376
+  size: 162, 188
+  orig: 162, 188
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Kuyu
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Kuyu
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: ffe91f2905a7f1f47923ded853407b1b,
+    type: 2}
+  talents:
+  - talentName: General Cartography
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Self-Defence
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 0
+  - talentName: Anthropology
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 1
+  - talentName: Art Of Leadership
+    talentStar: 2
+    currentStar: 2
+    talentAttribute: 2
+  - talentName: Close Quarters Fighting
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 3
+  vizierIndex: 38
+  size: 1
+  YPositionFix: -213

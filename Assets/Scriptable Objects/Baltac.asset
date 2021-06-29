@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Baltac
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Baltac
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: ae1cee0b38073e94cb179adb8eda0905,
+    type: 2}
+  talents:
+  - talentName: Strategic Plan
+    talentStar: 1
+    currentStar: 1
+    talentAttribute: 0
+  - talentName: Philosophical Training
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 1
+  - talentName: Applied Law
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 2
+  - talentName: Legal Theory
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Creative Training
+    talentStar: 2
+    currentStar: 2
+    talentAttribute: 3
+  vizierIndex: 12
+  size: 0.9108
+  YPositionFix: -260

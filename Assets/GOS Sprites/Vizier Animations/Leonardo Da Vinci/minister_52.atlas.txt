@@ -1,0 +1,291 @@
+
+minister_52_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+21
+  rotate: true
+  xy: 2, 94
+  size: 241, 473
+  orig: 241, 473
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 370, 640
+  size: 510, 378
+  orig: 510, 378
+  offset: 0, 0
+  index: -1
+b_00000
+  rotate: false
+  xy: 882, 681
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+c_00000
+  rotate: false
+  xy: 733, 21
+  size: 264, 168
+  orig: 264, 168
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 2
+  size: 69, 14
+  orig: 69, 14
+  offset: 0, 0
+  index: -1
+maoyi3
+  rotate: true
+  xy: 370, 438
+  size: 200, 550
+  orig: 200, 550
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 882, 819
+  size: 199, 116
+  orig: 199, 116
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 477, 66
+  size: 254, 370
+  orig: 254, 370
+  offset: 0, 0
+  index: -1
+shoushi1
+  rotate: true
+  xy: 126, 8
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: false
+  xy: 733, 191
+  size: 278, 245
+  orig: 278, 245
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 2, 337
+  size: 366, 681
+  orig: 366, 681
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: true
+  xy: 2, 18
+  size: 74, 122
+  orig: 74, 122
+  offset: 0, 0
+  index: -1
+
+minister_52_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22
+  rotate: false
+  xy: 109, 193
+  size: 142, 293
+  orig: 142, 293
+  offset: 0, 0
+  index: -1
+a_00000
+  rotate: false
+  xy: 497, 125
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+a_00001
+  rotate: false
+  xy: 593, 418
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+a_00002
+  rotate: false
+  xy: 696, 588
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+a_00003
+  rotate: false
+  xy: 858, 854
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+a_00004
+  rotate: false
+  xy: 858, 692
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+a_00005
+  rotate: false
+  xy: 858, 530
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+a_00006
+  rotate: false
+  xy: 755, 368
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+a_00007
+  rotate: false
+  xy: 659, 206
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+b_00001
+  rotate: false
+  xy: 712, 878
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+b_00002
+  rotate: false
+  xy: 821, 230
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+b_00003
+  rotate: false
+  xy: 821, 92
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+b_00004
+  rotate: false
+  xy: 659, 68
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+c_00001
+  rotate: false
+  xy: 164, 553
+  size: 264, 168
+  orig: 264, 168
+  offset: 0, 0
+  index: -1
+c_00002
+  rotate: true
+  xy: 372, 750
+  size: 264, 168
+  orig: 264, 168
+  offset: 0, 0
+  index: -1
+c_00003
+  rotate: true
+  xy: 253, 287
+  size: 264, 168
+  orig: 264, 168
+  offset: 0, 0
+  index: -1
+c_00004
+  rotate: true
+  xy: 327, 21
+  size: 264, 168
+  orig: 264, 168
+  offset: 0, 0
+  index: -1
+c_00005
+  rotate: true
+  xy: 423, 287
+  size: 264, 168
+  orig: 264, 168
+  offset: 0, 0
+  index: -1
+c_00006
+  rotate: false
+  xy: 430, 580
+  size: 264, 168
+  orig: 264, 168
+  offset: 0, 0
+  index: -1
+c_00007
+  rotate: true
+  xy: 542, 750
+  size: 264, 168
+  orig: 264, 168
+  offset: 0, 0
+  index: -1
+maoyi1
+  rotate: true
+  xy: 109, 2
+  size: 189, 216
+  orig: 189, 216
+  offset: 0, 0
+  index: -1
+maoyi2
+  rotate: false
+  xy: 2, 488
+  size: 160, 526
+  orig: 160, 526
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 2, 21
+  size: 105, 465
+  orig: 105, 465
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 164, 723
+  size: 206, 291
+  orig: 206, 291
+  offset: 0, 0
+  index: -1
+
+minister_52_3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_00005
+  rotate: false
+  xy: 2, 2
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+b_00006
+  rotate: false
+  xy: 140, 2
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+b_00007
+  rotate: false
+  xy: 278, 2
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Sinadim
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Sinadim
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: 04c12c92290104e41b57af3e88c47120,
+    type: 2}
+  talents:
+  - talentName: Matrak Combat
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Oil Wrestling
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Naval Skills
+    talentStar: 2
+    currentStar: 2
+    talentAttribute: 0
+  - talentName: Anthropology
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 1
+  - talentName: Fine Rhetoric
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Rational Critic
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Chess Mastery
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 3
+  vizierIndex: 43
+  size: 1.1397
+  YPositionFix: -200

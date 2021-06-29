@@ -1,0 +1,83 @@
+
+minister_49.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: false
+  xy: 519, 611
+  size: 336, 404
+  orig: 336, 404
+  offset: 0, 0
+  index: -1
+dun1
+  rotate: false
+  xy: 411, 182
+  size: 198, 405
+  orig: 198, 405
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 2
+  size: 69, 21
+  orig: 69, 21
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 2, 589
+  size: 515, 426
+  orig: 515, 426
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 611, 59
+  size: 192, 302
+  orig: 192, 302
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 611, 253
+  size: 356, 218
+  orig: 356, 218
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 156
+  size: 407, 431
+  orig: 407, 431
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 831, 364
+  size: 177, 245
+  orig: 177, 245
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 857, 622
+  size: 175, 133
+  orig: 175, 133
+  offset: 0, 0
+  index: -1
+shou22
+  rotate: false
+  xy: 857, 799
+  size: 153, 216
+  orig: 153, 216
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 25
+  size: 129, 243
+  orig: 129, 243
+  offset: 0, 0
+  index: -1

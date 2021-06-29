@@ -1,0 +1,308 @@
+{
+	"localizationItems": [
+		{
+			"key": "all_viziers",
+			"value": "tutti i visir"
+		},
+		{
+			"key": "my_viziers",
+			"value": "i miei visir"
+		},
+		{
+			"key": "efficiency_list",
+			"value": "efficacia"
+		},
+		{
+			"key": "sort",
+			"value": "ordine"
+		},
+		{
+			"key": "set_vizier_level",
+			"value": "seleziona livello visir"
+		},
+		{
+			"key": "attribute_raise",
+			"value": "crescita attributi"
+		},
+		{
+			"key": "talents",
+			"value": "talenti"
+		},
+		{
+			"key": "consort",
+			"value": "consorte"
+		},
+		{
+			"key": "military_bonus",
+			"value": " bonus militare"
+		},
+		{
+			"key": "research_bonus",
+			"value": "bonus ricerca"
+		},
+		{
+			"key": "political_bonus",
+			"value": "bonus politico"
+		},
+		{
+			"key": "prestige_bonus",
+			"value": "bonus prestigio"
+		},
+		{
+			"key": "consort_bonus",
+			"value": "bonus consorte"
+		},
+		{
+			"key": "do_you_really_want_to_delete_this_vizier",
+			"value": "vuoi davvero eliminare questo visir?"
+		},
+		{
+			"key": "vizier_list",
+			"value": "Elenco Visir"
+		},
+		{
+			"key": "explanation",
+			"value": "spiegazione"
+		},
+		{
+			"key": "credits",
+			"value": "ringraziamenti"
+		},
+		{
+			"key": "language",
+			"value": "lingua"
+		},
+		{
+			"key": "Columbus",
+			"value": "Colombo"
+		},
+		{
+			"key": "Semsi",
+			"value": "Semsi"
+		},
+		{
+			"key": "Karahmet",
+			"value": "Karahmet"
+		},
+		{
+			"key": "Sinadim",
+			"value": "Sinadim"
+		},
+		{
+			"key": "Yavuz",
+			"value": "Yavuz"
+		},
+		{
+			"key": "Ibrahim",
+			"value": "Ibrahim"
+		},
+		{
+			"key": "Barbaros",
+			"value": "Barbaros"
+		},
+		{
+			"key": "Hersek",
+			"value": "Hersek"
+		},
+		{
+			"key": "Murat",
+			"value": "Murat"
+		},
+		{
+			"key": "Merzif",
+			"value": "Merzif"
+		},
+		{
+			"key": "Rustem",
+			"value": "Rustem"
+		},
+		{
+			"key": "Mustafa",
+			"value": "Mustafa"
+		},
+		{
+			"key": "Kocasin",
+			"value": "Kocasin"
+		},
+		{
+			"key": "Kuyu",
+			"value": "Kuyu"
+		},
+		{
+			"key": "Serdar",
+			"value": "Serdar"
+		},
+		{
+			"key": "Kopru",
+			"value": "Kopru"
+		},
+		{
+			"key": "Tahrun",
+			"value": "Tahrun"
+		},
+		{
+			"key": "Ozdem",
+			"value": "Ozdem"
+		},
+		{
+			"key": "Kilic",
+			"value": "Kilic"
+		},
+		{
+			"key": "Seydi",
+			"value": "Seydi"
+		},
+		{
+			"key": "Alihad",
+			"value": "Alihad"
+		},
+		{
+			"key": "Candar",
+			"value": "Candar"
+		},
+		{
+			"key": "Yusuf",
+			"value": "Yusuf"
+		},
+		{
+			"key": "Semi",
+			"value": "Semi"
+		},
+		{
+			"key": "Alamus",
+			"value": "Alamus"
+		},
+		{
+			"key": "Davut",
+			"value": "Davut"
+		},
+		{
+			"key": "Baltac",
+			"value": "Baltac"
+		},
+		{
+			"key": "Nash",
+			"value": "Nash"
+		},
+		{
+			"key": "Ayas",
+			"value": "Ayas"
+		},
+		{
+			"key": "Sinan",
+			"value": "Sinan"
+		},
+		{
+			"key": "Evliya",
+			"value": "Evliya"
+		},
+		{
+			"key": "Fazil",
+			"value": "Fazil"
+		},
+		{
+			"key": "Zaganos",
+			"value": "Zaganos"
+		},
+		{
+			"key": "Karaman",
+			"value": "Karaman"
+		},
+		{
+			"key": "Mesih",
+			"value": "Mesih"
+		},
+		{
+			"key": "Lufti",
+			"value": "Lufti"
+		},
+		{
+			"key": "Gedik",
+			"value": "Gedik"
+		},
+		{
+			"key": "Sokulluzade",
+			"value": "Sokulluzade"
+		},
+		{
+			"key": "Kane",
+			"value": "Kane"
+		},
+		{
+			"key": "Ishak",
+			"value": "Ishak"
+		},
+		{
+			"key": "Hadim",
+			"value": "Hadim"
+		},
+		{
+			"key": "Piri",
+			"value": "Piri"
+		},
+		{
+			"key": "Lala",
+			"value": "Lala"
+		},
+		{
+			"key": "Hocas",
+			"value": "Hocas"
+		},
+		{
+			"key": "Veli",
+			"value": "Veli"
+		},
+		{
+			"key": "Ahmelek",
+			"value": "Ahmelek"
+		},
+		{
+			"key": "Piyale",
+			"value": "Piyale"
+		},
+		{
+			"key": "Beryl",
+			"value": "Beryl"
+		},
+		{
+			"key": "Damat",
+			"value": "Damat"
+		},
+		{
+			"key": "Grace O'Malley",
+			"value": "Grace O'Malley"
+		},
+		{
+			"key": "share_your_viziers",
+			"value": "condividi i tuoi visir"
+		},
+		{
+			"key": "Joan of Arc",
+			"value": "Giovanna D'Arco"
+		},
+		{
+			"key": "Jonas",
+			"value": "Jonas"
+		},
+		{
+			"key": "Leonardo Da Vinci",
+			"value": "Leonardo Da Vinci"
+		},
+		{
+			"key": "Nicolaus Copernicus",
+			"value": "Niccolò Copernico"
+		},
+		{
+			"key": "Piri Reis",
+			"value": "Piri Reis"
+		},
+		{
+			"key": "Sormet",
+			"value": "Sormet"
+		},
+		{
+			"key": "advertisement",
+			"value": "pubblicità"
+		}
+	]
+}

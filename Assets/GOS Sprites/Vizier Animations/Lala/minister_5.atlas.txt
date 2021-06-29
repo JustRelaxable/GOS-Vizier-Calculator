@@ -1,0 +1,48 @@
+
+minister_5.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 2, 32
+  size: 90, 20
+  orig: 90, 20
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 54
+  size: 433, 384
+  orig: 433, 384
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 388, 134
+  size: 352, 353
+  orig: 352, 353
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 742, 282
+  size: 205, 268
+  orig: 205, 268
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 388, 2
+  size: 130, 431
+  orig: 130, 431
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 742, 148
+  size: 132, 179
+  orig: 132, 179
+  offset: 0, 0
+  index: -1

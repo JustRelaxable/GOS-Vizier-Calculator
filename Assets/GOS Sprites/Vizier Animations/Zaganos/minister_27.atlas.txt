@@ -1,0 +1,69 @@
+
+minister_27.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+[ifeng2
+  rotate: false
+  xy: 2, 2
+  size: 228, 518
+  orig: 228, 518
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 232, 425
+  size: 95, 29
+  orig: 95, 29
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 593, 864
+  size: 156, 419
+  orig: 156, 419
+  offset: 0, 0
+  index: -1
+shenzi1
+  rotate: false
+  xy: 2, 522
+  size: 589, 498
+  orig: 589, 498
+  offset: 0, 0
+  index: -1
+shenzi2
+  rotate: false
+  xy: 593, 408
+  size: 411, 454
+  orig: 411, 454
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 595, 31
+  size: 375, 365
+  orig: 375, 365
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 403, 23
+  size: 190, 281
+  orig: 190, 281
+  offset: 0, 0
+  index: -1
+xiuzi
+  rotate: false
+  xy: 232, 8
+  size: 169, 398
+  orig: 169, 398
+  offset: 0, 0
+  index: -1
+zhi
+  rotate: false
+  xy: 403, 306
+  size: 180, 214
+  orig: 180, 214
+  offset: 0, 0
+  index: -1

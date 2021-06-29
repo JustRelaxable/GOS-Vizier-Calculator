@@ -1,0 +1,88 @@
+
+minister_46_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 721, 591
+  size: 65, 11
+  orig: 65, 11
+  offset: 0, 0
+  index: -1
+gong
+  rotate: false
+  xy: 2, 527
+  size: 717, 445
+  orig: 717, 445
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: true
+  xy: 390, 110
+  size: 58, 394
+  orig: 58, 394
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: true
+  xy: 2, 2
+  size: 166, 386
+  orig: 166, 386
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 721, 604
+  size: 368, 269
+  orig: 368, 269
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 170
+  size: 355, 795
+  orig: 355, 795
+  offset: 0, 0
+  index: -1
+
+minister_46_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiandai
+  rotate: false
+  xy: 358, 449
+  size: 456, 481
+  orig: 456, 481
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 2, 135
+  size: 354, 795
+  orig: 354, 795
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 358, 2
+  size: 445, 536
+  orig: 445, 536
+  offset: 0, 0
+  index: -1
+
+minister_46_3.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 363, 668
+  orig: 363, 668
+  offset: 0, 0
+  index: -1

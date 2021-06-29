@@ -1,0 +1,82 @@
+
+minister_42_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 2, 9
+  size: 69, 15
+  orig: 69, 15
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 396, 35
+  size: 293, 440
+  orig: 293, 440
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: true
+  xy: 524, 623
+  size: 391, 489
+  orig: 391, 489
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: false
+  xy: 2, 477
+  size: 520, 537
+  orig: 520, 537
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 691, 2
+  size: 361, 262
+  orig: 361, 262
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 26
+  size: 392, 449
+  orig: 392, 449
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 775, 365
+  size: 256, 228
+  orig: 256, 228
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 524, 503
+  size: 249, 118
+  orig: 249, 118
+  offset: 0, 0
+  index: -1
+
+minister_42_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou2
+  rotate: true
+  xy: 2, 50
+  size: 155, 398
+  orig: 155, 398
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 402, 2
+  size: 203, 258
+  orig: 203, 258
+  offset: 0, 0
+  index: -1

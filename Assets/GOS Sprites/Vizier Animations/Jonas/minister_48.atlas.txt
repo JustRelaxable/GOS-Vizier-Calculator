@@ -1,0 +1,145 @@
+
+minister_48_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshi
+  rotate: false
+  xy: 368, 359
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 997, 945
+  size: 75, 14
+  orig: 75, 14
+  offset: 0, 0
+  index: -1
+jianjia2
+  rotate: false
+  xy: 368, 8
+  size: 200, 139
+  orig: 200, 139
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 570, 21
+  size: 126, 154
+  orig: 126, 154
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: true
+  xy: 425, 149
+  size: 281, 556
+  orig: 281, 556
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: true
+  xy: 823, 29
+  size: 118, 170
+  orig: 118, 170
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 2, 2
+  size: 406, 364
+  orig: 406, 364
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 425, 740
+  size: 280, 570
+  orig: 280, 570
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 425, 432
+  size: 306, 567
+  orig: 306, 567
+  offset: 0, 0
+  index: -1
+shou22
+  rotate: false
+  xy: 726, 25
+  size: 95, 122
+  orig: 95, 122
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 410
+  size: 421, 610
+  orig: 421, 610
+  offset: 0, 0
+  index: -1
+
+minister_48_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 928, 411
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+jianjia1
+  rotate: false
+  xy: 816, 404
+  size: 110, 103
+  orig: 110, 103
+  offset: 0, 0
+  index: -1
+liantiao
+  rotate: false
+  xy: 594, 345
+  size: 220, 162
+  orig: 220, 162
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 274, 92
+  size: 186, 250
+  orig: 186, 250
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 462, 128
+  size: 120, 214
+  orig: 120, 214
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 2, 24
+  size: 270, 483
+  orig: 270, 483
+  offset: 0, 0
+  index: -1
+weijun
+  rotate: false
+  xy: 274, 344
+  size: 318, 163
+  orig: 318, 163
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: true
+  xy: 274, 2
+  size: 88, 105
+  orig: 88, 105
+  offset: 0, 0
+  index: -1

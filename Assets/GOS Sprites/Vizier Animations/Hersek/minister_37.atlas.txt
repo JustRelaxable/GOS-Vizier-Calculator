@@ -1,0 +1,62 @@
+
+minister_37.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 447, 409
+  size: 136, 145
+  orig: 136, 145
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 310, 386
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+qun1
+  rotate: false
+  xy: 614, 622
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+qun2
+  rotate: false
+  xy: 614, 798
+  size: 228, 215
+  orig: 228, 215
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 407
+  size: 443, 606
+  orig: 443, 606
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 2, 250
+  size: 306, 155
+  orig: 306, 155
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 447, 556
+  size: 165, 457
+  orig: 165, 457
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 155, 246
+  orig: 155, 246
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Murat
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Murat
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: 2058245b339155d488482a48ce5c58ad,
+    type: 2}
+  talents:
+  - talentName: Quick March
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Cultural Adaptation
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: Master Linguist
+    talentStar: 1
+    currentStar: 1
+    talentAttribute: 1
+  - talentName: Agricultural Policy
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Timar Landownership
+    talentStar: 1
+    currentStar: 1
+    talentAttribute: 2
+  - talentName: Bureauracy
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  - talentName: Ritual Mastery
+    talentStar: 1
+    currentStar: 1
+    talentAttribute: 3
+  vizierIndex: 33
+  size: 0.88
+  YPositionFix: -254

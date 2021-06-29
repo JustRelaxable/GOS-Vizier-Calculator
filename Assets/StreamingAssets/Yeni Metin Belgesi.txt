@@ -1,0 +1,60 @@
+{
+	"localizationItems": [
+		{
+			"key": "all_viziers",
+			"value": "tous les vizirs"
+		},
+		{
+			"key": "my_viziers",
+			"value": "mes vizirs"
+		},
+		{
+			"key": "efficiency_list",
+			"value": "efficacité"
+		},
+		{
+			"key": "sort",
+			"value": "ordre"
+		},
+		{
+			"key": "set_vizier_level",
+			"value": "sélectionner le niveau du vizir"
+		},
+		{
+			"key": "attribute_raise",
+			"value": "croissance des attributs"
+		},
+		{
+			"key": "talents",
+			"value": "talents"
+		},
+		{
+			"key": "consort",
+			"value": "consort"
+		},
+		{
+			"key": "military_bonus",
+			"value": " bonus armée"
+		},
+		{
+			"key": "research_bonus",
+			"value": "bonus recherche"
+		},
+		{
+			"key": "political_bonus",
+			"value": "bonus politique"
+		},
+		{
+			"key": "prestige_bonus",
+			"value": "bonus prestige"
+		},
+		{
+			"key": "consort_bonus",
+			"value": "bonus consort"
+		},
+		{
+			"key": "do_you_really_want_to_delete_this_vizier",
+			"value": "veux-tu éliminer vraiment ce vizir?"
+		}
+	]
+}

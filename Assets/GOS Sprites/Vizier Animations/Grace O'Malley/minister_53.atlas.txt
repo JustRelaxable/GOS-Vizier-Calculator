@@ -1,0 +1,493 @@
+
+minister_53_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3/zuo_00000
+  rotate: false
+  xy: 852, 797
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+3/zuo_00001
+  rotate: false
+  xy: 852, 571
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+5/youa_00000
+  rotate: false
+  xy: 2, 5
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+5/youa_00001
+  rotate: false
+  xy: 212, 5
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+6/jiezhi_00000
+  rotate: true
+  xy: 852, 521
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+6/jiezhi_00001
+  rotate: true
+  xy: 918, 521
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+6/jiezhi_00002
+  rotate: false
+  xy: 906, 129
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+6/jiezhi_00003
+  rotate: false
+  xy: 906, 63
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+6/jiezhi_00004
+  rotate: true
+  xy: 906, 13
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+6/jiezhi_00005
+  rotate: false
+  xy: 945, 455
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+6/jiezhi_00006
+  rotate: false
+  xy: 945, 389
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+6/jiezhi_00007
+  rotate: false
+  xy: 945, 323
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+7/qiang_00000
+  rotate: true
+  xy: 624, 9
+  size: 184, 280
+  orig: 184, 280
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 397, 413
+  size: 93, 18
+  orig: 93, 18
+  offset: 0, 0
+  index: -1
+shou8
+  rotate: true
+  xy: 422, 195
+  size: 311, 521
+  orig: 311, 521
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 397, 508
+  size: 453, 513
+  orig: 453, 513
+  offset: 0, 0
+  index: -1
+yifu2
+  rotate: false
+  xy: 2, 215
+  size: 393, 806
+  orig: 393, 806
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 422, 2
+  size: 200, 191
+  orig: 200, 191
+  offset: 0, 0
+  index: -1
+
+minister_53_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/jian_00000
+  rotate: false
+  xy: 366, 284
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+1/jian_00001
+  rotate: false
+  xy: 339, 42
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+1/jian_00002
+  rotate: false
+  xy: 652, 470
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+1/jian_00003
+  rotate: false
+  xy: 581, 42
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+7/qiang_00001
+  rotate: true
+  xy: 370, 526
+  size: 184, 280
+  orig: 184, 280
+  offset: 0, 0
+  index: -1
+7/qiang_00007
+  rotate: true
+  xy: 370, 526
+  size: 184, 280
+  orig: 184, 280
+  offset: 0, 0
+  index: -1
+7/qiang_00002
+  rotate: false
+  xy: 827, 735
+  size: 184, 280
+  orig: 184, 280
+  offset: 0, 0
+  index: -1
+7/qiang_00006
+  rotate: false
+  xy: 827, 735
+  size: 184, 280
+  orig: 184, 280
+  offset: 0, 0
+  index: -1
+7/qiang_00003
+  rotate: true
+  xy: 608, 284
+  size: 184, 280
+  orig: 184, 280
+  offset: 0, 0
+  index: -1
+7/qiang_00005
+  rotate: true
+  xy: 608, 284
+  size: 184, 280
+  orig: 184, 280
+  offset: 0, 0
+  index: -1
+7/qiang_00004
+  rotate: false
+  xy: 823, 2
+  size: 184, 280
+  orig: 184, 280
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: false
+  xy: 2, 627
+  size: 366, 388
+  orig: 366, 388
+  offset: 0, 0
+  index: -1
+qunbai
+  rotate: true
+  xy: 370, 712
+  size: 125, 419
+  orig: 125, 419
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 370, 839
+  size: 176, 455
+  orig: 176, 455
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 293
+  size: 362, 332
+  orig: 362, 332
+  offset: 0, 0
+  index: -1
+yifu1
+  rotate: true
+  xy: 2, 9
+  size: 282, 335
+  orig: 282, 335
+  offset: 0, 0
+  index: -1
+
+minister_53_3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/jian_00004
+  rotate: false
+  xy: 2, 516
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+1/jian_00005
+  rotate: false
+  xy: 140, 762
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+1/jian_00006
+  rotate: false
+  xy: 2, 274
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+1/jian_00007
+  rotate: false
+  xy: 2, 32
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+2/you_00000
+  rotate: false
+  xy: 382, 778
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+2/you_00001
+  rotate: false
+  xy: 608, 778
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+2/you_00002
+  rotate: false
+  xy: 382, 552
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+2/you_00003
+  rotate: false
+  xy: 608, 552
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+2/you_00004
+  rotate: false
+  xy: 244, 326
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+2/you_00005
+  rotate: false
+  xy: 244, 100
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+2/you_00006
+  rotate: false
+  xy: 470, 326
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+2/you_00007
+  rotate: false
+  xy: 696, 326
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+3/zuo_00002
+  rotate: false
+  xy: 834, 778
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+3/zuo_00003
+  rotate: false
+  xy: 834, 552
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+3/zuo_00004
+  rotate: false
+  xy: 470, 100
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+3/zuo_00005
+  rotate: false
+  xy: 632, 100
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+3/zuo_00006
+  rotate: true
+  xy: 794, 164
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+3/zuo_00007
+  rotate: true
+  xy: 794, 2
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 2, 758
+  size: 136, 244
+  orig: 136, 244
+  offset: 0, 0
+  index: -1
+
+minister_53_4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/zuoa_00000
+  rotate: false
+  xy: 2, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+4/zuoa_00001
+  rotate: false
+  xy: 212, 374
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+4/zuoa_00002
+  rotate: false
+  xy: 422, 584
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+4/zuoa_00003
+  rotate: false
+  xy: 632, 794
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+4/zuoa_00004
+  rotate: false
+  xy: 2, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+4/zuoa_00005
+  rotate: false
+  xy: 794, 794
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+4/zuoa_00006
+  rotate: false
+  xy: 164, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+4/zuoa_00007
+  rotate: false
+  xy: 164, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+5/youa_00002
+  rotate: false
+  xy: 2, 746
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+5/youa_00003
+  rotate: false
+  xy: 2, 536
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+5/youa_00004
+  rotate: false
+  xy: 212, 746
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+5/youa_00005
+  rotate: false
+  xy: 2, 326
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+5/youa_00006
+  rotate: false
+  xy: 212, 536
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+5/youa_00007
+  rotate: false
+  xy: 422, 746
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1

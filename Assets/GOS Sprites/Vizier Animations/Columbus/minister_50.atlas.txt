@@ -1,0 +1,333 @@
+
+minister_50_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: true
+  xy: 991, 927
+  size: 94, 19
+  orig: 94, 19
+  offset: 0, 0
+  index: -1
+glow_00000
+  rotate: false
+  xy: 898, 12
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+qunbai
+  rotate: false
+  xy: 712, 151
+  size: 209, 427
+  orig: 209, 427
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 708, 1019
+  orig: 708, 1019
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 712, 580
+  size: 441, 277
+  orig: 441, 277
+  offset: 0, 0
+  index: -1
+tou_00000
+  rotate: false
+  xy: 712, 29
+  size: 184, 120
+  orig: 184, 120
+  offset: 0, 0
+  index: -1
+you_00000
+  rotate: true
+  xy: 923, 256
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+you_00001
+  rotate: true
+  xy: 923, 94
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+you_00007
+  rotate: true
+  xy: 923, 418
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+
+minister_50_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 2, 202
+  size: 384, 240
+  orig: 384, 240
+  offset: 0, 0
+  index: -1
+1_00001
+  rotate: true
+  xy: 162, 630
+  size: 384, 240
+  orig: 384, 240
+  offset: 0, 0
+  index: -1
+1_00002
+  rotate: true
+  xy: 244, 244
+  size: 384, 240
+  orig: 384, 240
+  offset: 0, 0
+  index: -1
+1_00003
+  rotate: true
+  xy: 404, 630
+  size: 384, 240
+  orig: 384, 240
+  offset: 0, 0
+  index: -1
+1_00004
+  rotate: false
+  xy: 246, 2
+  size: 384, 240
+  orig: 384, 240
+  offset: 0, 0
+  index: -1
+1_00005
+  rotate: true
+  xy: 486, 244
+  size: 384, 240
+  orig: 384, 240
+  offset: 0, 0
+  index: -1
+1_00006
+  rotate: true
+  xy: 646, 630
+  size: 384, 240
+  orig: 384, 240
+  offset: 0, 0
+  index: -1
+1_00007
+  rotate: false
+  xy: 632, 2
+  size: 384, 240
+  orig: 384, 240
+  offset: 0, 0
+  index: -1
+qunbai1
+  rotate: false
+  xy: 2, 588
+  size: 158, 426
+  orig: 158, 426
+  offset: 0, 0
+  index: -1
+tou_00001
+  rotate: true
+  xy: 2, 16
+  size: 184, 120
+  orig: 184, 120
+  offset: 0, 0
+  index: -1
+tou_00002
+  rotate: true
+  xy: 124, 16
+  size: 184, 120
+  orig: 184, 120
+  offset: 0, 0
+  index: -1
+tou_00003
+  rotate: true
+  xy: 888, 830
+  size: 184, 120
+  orig: 184, 120
+  offset: 0, 0
+  index: -1
+tou_00004
+  rotate: true
+  xy: 888, 644
+  size: 184, 120
+  orig: 184, 120
+  offset: 0, 0
+  index: -1
+tou_00005
+  rotate: true
+  xy: 888, 458
+  size: 184, 120
+  orig: 184, 120
+  offset: 0, 0
+  index: -1
+tou_00006
+  rotate: true
+  xy: 728, 272
+  size: 184, 120
+  orig: 184, 120
+  offset: 0, 0
+  index: -1
+you_00002
+  rotate: true
+  xy: 728, 468
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+you_00003
+  rotate: false
+  xy: 850, 360
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+you_00004
+  rotate: false
+  xy: 850, 262
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+
+minister_50_3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_00001
+  rotate: false
+  xy: 424, 320
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+glow_00002
+  rotate: false
+  xy: 2, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+glow_00003
+  rotate: false
+  xy: 424, 238
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+glow_00004
+  rotate: false
+  xy: 424, 156
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+glow_00005
+  rotate: false
+  xy: 262, 26
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+glow_00006
+  rotate: false
+  xy: 344, 26
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+glow_00007
+  rotate: false
+  xy: 426, 74
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+tou_00007
+  rotate: false
+  xy: 2, 378
+  size: 184, 120
+  orig: 184, 120
+  offset: 0, 0
+  index: -1
+you_00005
+  rotate: false
+  xy: 2, 280
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+you_00006
+  rotate: false
+  xy: 188, 402
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+zuo_00000
+  rotate: false
+  xy: 350, 402
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+zuo_00001
+  rotate: false
+  xy: 2, 182
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+zuo_00002
+  rotate: false
+  xy: 2, 84
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+zuo_00003
+  rotate: true
+  xy: 164, 216
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+zuo_00004
+  rotate: false
+  xy: 262, 304
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+zuo_00005
+  rotate: false
+  xy: 262, 206
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+zuo_00006
+  rotate: true
+  xy: 164, 54
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+zuo_00007
+  rotate: false
+  xy: 262, 108
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1

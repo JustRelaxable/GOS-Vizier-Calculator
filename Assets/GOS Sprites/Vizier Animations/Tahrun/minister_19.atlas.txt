@@ -1,0 +1,83 @@
+
+minister_19.png
+size: 913,705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi
+  rotate: false
+  xy: 870, 598
+  size: 32, 105
+  orig: 32, 105
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 778, 439
+  size: 90, 264
+  orig: 90, 264
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 453, 402
+  size: 323, 301
+  orig: 323, 301
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 200
+  size: 449, 503
+  orig: 449, 503
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 736, 223
+  size: 175, 177
+  orig: 175, 177
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 453, 222
+  size: 178, 281
+  orig: 178, 281
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 496, 70
+  size: 294, 150
+  orig: 294, 150
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 277, 15
+  size: 183, 217
+  orig: 183, 217
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 778, 414
+  size: 86, 23
+  orig: 86, 23
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 2, 2
+  size: 273, 196
+  orig: 273, 196
+  offset: 0, 0
+  index: -1
+ye
+  rotate: true
+  xy: 792, 9
+  size: 212, 83
+  orig: 212, 83
+  offset: 0, 0
+  index: -1

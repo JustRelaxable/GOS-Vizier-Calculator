@@ -1,0 +1,48 @@
+
+minister_31.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 295, 151
+  size: 114, 41
+  orig: 114, 41
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: false
+  xy: 2, 194
+  size: 576, 318
+  orig: 576, 318
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 514
+  size: 556, 495
+  orig: 556, 495
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 560, 691
+  size: 461, 318
+  orig: 461, 318
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 560, 553
+  size: 136, 328
+  orig: 136, 328
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 2
+  size: 190, 291
+  orig: 190, 291
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+minister_21.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 572, 256
+  size: 79, 270
+  orig: 79, 270
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 289, 104
+  size: 67, 16
+  orig: 67, 16
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 588, 57
+  size: 157, 197
+  orig: 157, 197
+  offset: 0, 0
+  index: -1
+mao1
+  rotate: false
+  xy: 572, 337
+  size: 293, 171
+  orig: 293, 171
+  offset: 0, 0
+  index: -1
+mao2
+  rotate: false
+  xy: 747, 155
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+mao3
+  rotate: false
+  xy: 867, 423
+  size: 144, 85
+  orig: 144, 85
+  offset: 0, 0
+  index: -1
+qun
+  rotate: false
+  xy: 360, 234
+  size: 210, 274
+  orig: 210, 274
+  offset: 0, 0
+  index: -1
+qun1
+  rotate: true
+  xy: 588, 2
+  size: 53, 274
+  orig: 53, 274
+  offset: 0, 0
+  index: -1
+qun2
+  rotate: true
+  xy: 2, 12
+  size: 108, 285
+  orig: 108, 285
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 122
+  size: 356, 386
+  orig: 356, 386
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 360, 51
+  size: 226, 181
+  orig: 226, 181
+  offset: 0, 0
+  index: -1

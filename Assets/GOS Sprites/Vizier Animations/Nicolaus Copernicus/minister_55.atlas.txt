@@ -1,0 +1,243 @@
+
+minister_55_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00yan
+  rotate: false
+  xy: 38, 13
+  size: 86, 15
+  orig: 86, 15
+  offset: 0, 0
+  index: -1
+01tou
+  rotate: true
+  xy: 532, 596
+  size: 425, 422
+  orig: 425, 422
+  offset: 0, 0
+  index: -1
+04wuqi
+  rotate: true
+  xy: 2, 2
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+06yifu
+  rotate: false
+  xy: 2, 357
+  size: 528, 664
+  orig: 528, 664
+  offset: 0, 0
+  index: -1
+07yaodao
+  rotate: true
+  xy: 956, 962
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+09xiangliang
+  rotate: true
+  xy: 532, 357
+  size: 70, 182
+  orig: 70, 182
+  offset: 0, 0
+  index: -1
+1/a_00000
+  rotate: false
+  xy: 736, 314
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+1/a_00001
+  rotate: false
+  xy: 736, 32
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+10qunbai
+  rotate: true
+  xy: 2, 30
+  size: 325, 386
+  orig: 325, 386
+  offset: 0, 0
+  index: -1
+11yifu
+  rotate: true
+  xy: 390, 36
+  size: 319, 344
+  orig: 319, 344
+  offset: 0, 0
+  index: -1
+12shouhuan
+  rotate: true
+  xy: 956, 902
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+13shu
+  rotate: true
+  xy: 453, 4
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+14shu
+  rotate: false
+  xy: 532, 429
+  size: 153, 165
+  orig: 153, 165
+  offset: 0, 0
+  index: -1
+15shou
+  rotate: false
+  xy: 390, 4
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+
+minister_55_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02wuqi
+  rotate: true
+  xy: 647, 521
+  size: 214, 234
+  orig: 214, 234
+  offset: 0, 0
+  index: -1
+03shou
+  rotate: false
+  xy: 2, 2
+  size: 90, 99
+  orig: 90, 99
+  offset: 0, 0
+  index: -1
+05zhuangshi
+  rotate: false
+  xy: 2, 667
+  size: 304, 350
+  orig: 304, 350
+  offset: 0, 0
+  index: -1
+08xianglian
+  rotate: false
+  xy: 566, 323
+  size: 276, 196
+  orig: 276, 196
+  offset: 0, 0
+  index: -1
+1/a_00002
+  rotate: false
+  xy: 2, 385
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+1/a_00003
+  rotate: false
+  xy: 308, 737
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+1/a_00004
+  rotate: false
+  xy: 2, 103
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+1/a_00005
+  rotate: false
+  xy: 590, 737
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+1/a_00006
+  rotate: false
+  xy: 284, 296
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+1/a_00007
+  rotate: false
+  xy: 284, 14
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+16shou
+  rotate: true
+  xy: 308, 578
+  size: 157, 337
+  orig: 157, 337
+  offset: 0, 0
+  index: -1
+2/b_00000
+  rotate: false
+  xy: 872, 937
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+2/b_00001
+  rotate: false
+  xy: 566, 241
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+2/b_00002
+  rotate: false
+  xy: 94, 21
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+2/b_00003
+  rotate: false
+  xy: 872, 855
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+2/b_00004
+  rotate: false
+  xy: 566, 159
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+2/b_00005
+  rotate: false
+  xy: 648, 241
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+2/b_00006
+  rotate: false
+  xy: 176, 21
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+2/b_00007
+  rotate: false
+  xy: 872, 773
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

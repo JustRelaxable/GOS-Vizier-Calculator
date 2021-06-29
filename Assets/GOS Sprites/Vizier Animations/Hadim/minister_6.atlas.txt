@@ -1,0 +1,89 @@
+
+minister_6_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dai1
+  rotate: false
+  xy: 847, 425
+  size: 73, 267
+  orig: 73, 267
+  offset: 0, 0
+  index: -1
+dai2
+  rotate: true
+  xy: 616, 333
+  size: 71, 233
+  orig: 71, 233
+  offset: 0, 0
+  index: -1
+dai3
+  rotate: true
+  xy: 616, 263
+  size: 68, 234
+  orig: 68, 234
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 983, 938
+  size: 79, 23
+  orig: 79, 23
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 616, 406
+  size: 229, 286
+  orig: 229, 286
+  offset: 0, 0
+  index: -1
+ling
+  rotate: false
+  xy: 2, 5
+  size: 312, 188
+  orig: 312, 188
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 195
+  size: 612, 822
+  orig: 612, 822
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 616, 694
+  size: 365, 323
+  orig: 365, 323
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 316, 2
+  size: 191, 234
+  orig: 191, 234
+  offset: 0, 0
+  index: -1
+
+minister_6_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand1
+  rotate: true
+  xy: 550, 5
+  size: 425, 440
+  orig: 425, 440
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 2, 2
+  size: 428, 546
+  orig: 428, 546
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+minister_26.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand
+  rotate: true
+  xy: 550, 447
+  size: 219, 325
+  orig: 219, 325
+  offset: 0, 0
+  index: -1
+qun
+  rotate: false
+  xy: 550, 668
+  size: 275, 345
+  orig: 275, 345
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 148
+  size: 522, 350
+  orig: 522, 350
+  offset: 0, 0
+  index: -1
+shenzi1
+  rotate: false
+  xy: 2, 500
+  size: 546, 513
+  orig: 546, 513
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 526, 155
+  size: 246, 290
+  orig: 246, 290
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 827, 798
+  size: 180, 215
+  orig: 180, 215
+  offset: 0, 0
+  index: -1
+xiuzi
+  rotate: true
+  xy: 2, 2
+  size: 144, 155
+  orig: 144, 155
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 774, 427
+  size: 77, 18
+  orig: 77, 18
+  offset: 0, 0
+  index: -1

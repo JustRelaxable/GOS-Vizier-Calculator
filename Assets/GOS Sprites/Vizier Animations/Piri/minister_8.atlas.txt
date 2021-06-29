@@ -1,0 +1,83 @@
+
+minister_8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bu1
+  rotate: false
+  xy: 2, 5
+  size: 112, 547
+  orig: 112, 547
+  offset: 0, 0
+  index: -1
+bu2
+  rotate: true
+  xy: 116, 2
+  size: 76, 532
+  orig: 76, 532
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 604, 231
+  size: 151, 321
+  orig: 151, 321
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 696, 661
+  size: 268, 356
+  orig: 268, 356
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 116, 80
+  size: 416, 165
+  orig: 416, 165
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 757, 413
+  size: 211, 246
+  orig: 211, 246
+  offset: 0, 0
+  index: -1
+mao1
+  rotate: true
+  xy: 757, 238
+  size: 173, 243
+  orig: 173, 243
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 554
+  size: 692, 463
+  orig: 692, 463
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 432, 254
+  size: 170, 298
+  orig: 170, 298
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 116, 247
+  size: 314, 305
+  orig: 314, 305
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 966, 941
+  size: 76, 12
+  orig: 76, 12
+  offset: 0, 0
+  index: -1

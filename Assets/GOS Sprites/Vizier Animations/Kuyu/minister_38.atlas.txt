@@ -1,0 +1,73 @@
+
+minister_38_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 2, 2
+  size: 76, 13
+  orig: 76, 13
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 17
+  size: 711, 904
+  orig: 711, 904
+  offset: 0, 0
+  index: -1
+
+minister_38_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou
+  rotate: false
+  xy: 2, 2
+  size: 711, 858
+  orig: 711, 858
+  offset: 0, 0
+  index: -1
+
+minister_38_3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pifeng1
+  rotate: true
+  xy: 2, 2
+  size: 344, 653
+  orig: 344, 653
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: false
+  xy: 2, 348
+  size: 641, 657
+  orig: 641, 657
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 645, 377
+  size: 628, 370
+  orig: 628, 370
+  offset: 0, 0
+  index: -1
+
+minister_38_4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 596, 564
+  orig: 596, 564
+  offset: 0, 0
+  index: -1

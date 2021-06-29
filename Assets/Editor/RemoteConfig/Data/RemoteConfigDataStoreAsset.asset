@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  rsKeyList:
+  - metadata:
+      entityId: 06255a26-307a-41bd-b8d7-d4da6cb3dd66
+    rs:
+      key: youtube_link
+      type: string
+      value: https://www.youtube.com/channel/UCiIfQEvgExkIRuaEb8nsBNA/
+  - metadata:
+      entityId: d4893c1c-ff1c-4684-ad97-92432268e956
+    rs:
+      key: app_version
+      type: string
+      value: 1.0.0
+  rsLastCachedKeyList:
+  - metadata:
+      entityId: 06255a26-307a-41bd-b8d7-d4da6cb3dd66
+    rs:
+      key: youtube_link
+      type: string
+      value: https://www.youtube.com/channel/UCiIfQEvgExkIRuaEb8nsBNA/
+  - metadata:
+      entityId: d4893c1c-ff1c-4684-ad97-92432268e956
+    rs:
+      key: app_version
+      type: string
+      value: 1.0.0
+  configId: 10d9007f-3c5c-4431-9686-9e22935305c8
+  currentEnvironmentId: fcef7a8a-5116-4b97-a071-c1001489eeee
+  environments:
+  - id: fcef7a8a-5116-4b97-a071-c1001489eeee
+    appId: 
+    name: All (Default)
+    description: 
+    createdAt: 2020-01-21T13:41:44Z
+    updatedAt: 2020-01-21T13:43:55Z
+  - id: fa65f55e-e5b2-4c12-bd98-61434ce3662c
+    appId: 
+    name: Release
+    description: 
+    createdAt: 2020-01-21T13:42:10Z
+    updatedAt: 2020-01-21T13:42:10Z
+  - id: 496946dc-b3b5-41f7-888b-7ac0caaa2ca6
+    appId: 
+    name: Development
+    description: 
+    createdAt: 2020-01-21T13:42:10Z
+    updatedAt: 2020-01-21T13:42:10Z
+  rulesList: []
+  lastCachedRulesList: []
+  addedRulesIDs: []
+  updatedRulesIDs: []
+  deletedRulesIDs: []

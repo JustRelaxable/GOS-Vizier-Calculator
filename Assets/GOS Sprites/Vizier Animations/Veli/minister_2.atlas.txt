@@ -1,0 +1,159 @@
+
+minister_2_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYe
+  rotate: true
+  xy: 392, 349
+  size: 80, 18
+  orig: 80, 18
+  offset: 0, 0
+  index: -1
+dai1
+  rotate: false
+  xy: 904, 189
+  size: 86, 291
+  orig: 86, 291
+  offset: 0, 0
+  index: -1
+hand14
+  rotate: false
+  xy: 448, 338
+  size: 320, 197
+  orig: 320, 197
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 219, 14
+  size: 171, 415
+  orig: 171, 415
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 448, 537
+  size: 417, 457
+  orig: 417, 457
+  offset: 0, 0
+  index: -1
+qizi1
+  rotate: false
+  xy: 847, 79
+  size: 55, 294
+  orig: 55, 294
+  offset: 0, 0
+  index: -1
+qizi2
+  rotate: false
+  xy: 2, 11
+  size: 215, 418
+  orig: 215, 418
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 662, 20
+  size: 183, 316
+  orig: 183, 316
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: false
+  xy: 392, 58
+  size: 268, 278
+  orig: 268, 278
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 431
+  size: 444, 563
+  orig: 444, 563
+  offset: 0, 0
+  index: -1
+shiwu
+  rotate: false
+  xy: 770, 375
+  size: 95, 160
+  orig: 95, 160
+  offset: 0, 0
+  index: -1
+shiwu1
+  rotate: true
+  xy: 867, 739
+  size: 255, 140
+  orig: 255, 140
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 867, 482
+  size: 136, 255
+  orig: 136, 255
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: true
+  xy: 904, 8
+  size: 179, 104
+  orig: 179, 104
+  offset: 0, 0
+  index: -1
+weijin2
+  rotate: true
+  xy: 392, 2
+  size: 54, 121
+  orig: 54, 121
+  offset: 0, 0
+  index: -1
+
+minister_2_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dai2
+  rotate: false
+  xy: 903, 16
+  size: 84, 234
+  orig: 84, 234
+  offset: 0, 0
+  index: -1
+dai3
+  rotate: true
+  xy: 669, 2
+  size: 88, 232
+  orig: 88, 232
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 669, 92
+  size: 158, 131
+  orig: 158, 131
+  offset: 0, 0
+  index: -1
+hand12
+  rotate: true
+  xy: 2, 8
+  size: 242, 264
+  orig: 242, 264
+  offset: 0, 0
+  index: -1
+hand13
+  rotate: false
+  xy: 268, 5
+  size: 234, 245
+  orig: 234, 245
+  offset: 0, 0
+  index: -1
+shiwu2
+  rotate: true
+  xy: 504, 78
+  size: 172, 163
+  orig: 172, 163
+  offset: 0, 0
+  index: -1

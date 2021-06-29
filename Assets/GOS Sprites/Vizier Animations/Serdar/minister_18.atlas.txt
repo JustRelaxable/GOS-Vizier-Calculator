@@ -1,0 +1,96 @@
+
+minister_18_1.png
+size: 1022,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: true
+  xy: 350, 27
+  size: 240, 414
+  orig: 240, 414
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 350, 6
+  size: 88, 19
+  orig: 88, 19
+  offset: 0, 0
+  index: -1
+pi1
+  rotate: true
+  xy: 363, 269
+  size: 299, 603
+  orig: 299, 603
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 363, 570
+  size: 513, 452
+  orig: 513, 452
+  offset: 0, 0
+  index: -1
+shou11
+  rotate: false
+  xy: 2, 342
+  size: 359, 680
+  orig: 359, 680
+  offset: 0, 0
+  index: -1
+shou12
+  rotate: false
+  xy: 766, 58
+  size: 137, 209
+  orig: 137, 209
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 878, 773
+  size: 142, 249
+  orig: 142, 249
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 2, 2
+  size: 338, 346
+  orig: 338, 346
+  offset: 0, 0
+  index: -1
+
+minister_18_2.png
+size: 810,560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 354, 2
+  size: 179, 340
+  orig: 179, 340
+  offset: 0, 0
+  index: -1
+pi2
+  rotate: false
+  xy: 2, 18
+  size: 350, 540
+  orig: 350, 540
+  offset: 0, 0
+  index: -1
+qnu1
+  rotate: false
+  xy: 628, 194
+  size: 180, 364
+  orig: 180, 364
+  offset: 0, 0
+  index: -1
+qun2
+  rotate: false
+  xy: 354, 183
+  size: 272, 375
+  orig: 272, 375
+  offset: 0, 0
+  index: -1

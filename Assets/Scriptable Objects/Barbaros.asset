@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Barbaros
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Barbaros
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: 137e357ba6afbe04eaf69f8aac3aba07,
+    type: 2}
+  talents:
+  - talentName: Advanced Tactics
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Alpagut Combat
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 0
+  - talentName: Naval Skills
+    talentStar: 2
+    currentStar: 2
+    talentAttribute: 0
+  - talentName: Chemistry
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: Natural Events
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Armor Practice
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  vizierIndex: 47
+  size: 1
+  YPositionFix: -209

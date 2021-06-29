@@ -1,0 +1,55 @@
+
+minister_22.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 435, 547
+  size: 87, 18
+  orig: 87, 18
+  offset: 0, 0
+  index: -1
+jianbang
+  rotate: false
+  xy: 549, 739
+  size: 461, 276
+  orig: 461, 276
+  offset: 0, 0
+  index: -1
+qunzi1
+  rotate: false
+  xy: 2, 196
+  size: 431, 369
+  orig: 431, 369
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 549, 479
+  size: 281, 258
+  orig: 281, 258
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 832, 564
+  size: 173, 190
+  orig: 173, 190
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 2
+  size: 192, 253
+  orig: 192, 253
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 2, 567
+  size: 545, 448
+  orig: 545, 448
+  offset: 0, 0
+  index: -1

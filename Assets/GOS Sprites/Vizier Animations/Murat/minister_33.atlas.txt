@@ -1,0 +1,89 @@
+
+minister_33_1.png
+size: 977,1016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: true
+  xy: 955, 913
+  size: 101, 20
+  orig: 101, 20
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 332
+  size: 753, 682
+  orig: 753, 682
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 2, 23
+  size: 451, 307
+  orig: 451, 307
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 670, 99
+  size: 214, 231
+  orig: 214, 231
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 757, 390
+  size: 266, 183
+  orig: 266, 183
+  offset: 0, 0
+  index: -1
+xiuzi1
+  rotate: false
+  xy: 455, 2
+  size: 213, 328
+  orig: 213, 328
+  offset: 0, 0
+  index: -1
+xiuzi2
+  rotate: false
+  xy: 757, 658
+  size: 196, 356
+  orig: 196, 356
+  offset: 0, 0
+  index: -1
+
+minister_33_2.png
+size: 1016,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: false
+  xy: 2, 2
+  size: 364, 546
+  orig: 364, 546
+  offset: 0, 0
+  index: -1
+shenzi1
+  rotate: true
+  xy: 546, 471
+  size: 551, 388
+  orig: 551, 388
+  offset: 0, 0
+  index: -1
+shenzi2
+  rotate: false
+  xy: 2, 550
+  size: 542, 472
+  orig: 542, 472
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 368, 112
+  size: 357, 646
+  orig: 357, 646
+  offset: 0, 0
+  index: -1

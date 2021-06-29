@@ -1,0 +1,83 @@
+
+minister_15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 425
+  size: 391, 591
+  orig: 391, 591
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 862, 786
+  size: 78, 20
+  orig: 78, 20
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 385, 200
+  size: 153, 200
+  orig: 153, 200
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: false
+  xy: 625, 435
+  size: 87, 244
+  orig: 87, 244
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: false
+  xy: 395, 660
+  size: 207, 356
+  orig: 207, 356
+  offset: 0, 0
+  index: -1
+qun1
+  rotate: false
+  xy: 395, 402
+  size: 228, 256
+  orig: 228, 256
+  offset: 0, 0
+  index: -1
+qun2
+  rotate: true
+  xy: 604, 681
+  size: 125, 256
+  orig: 125, 256
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: true
+  xy: 2, 2
+  size: 421, 381
+  orig: 421, 381
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 604, 808
+  size: 331, 208
+  orig: 331, 208
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 385, 57
+  size: 151, 141
+  orig: 151, 141
+  offset: 0, 0
+  index: -1
+toujin
+  rotate: false
+  xy: 937, 808
+  size: 75, 208
+  orig: 75, 208
+  offset: 0, 0
+  index: -1

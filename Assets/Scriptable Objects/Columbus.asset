@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Columbus
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Columbus
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: ef415bbeb597c8e469941f569755adbd,
+    type: 2}
+  talents:
+  - talentName: Equestrian Mastery
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Foreign Arms
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Soyokan Combat
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 0
+  - talentName: Rhetoric
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: History Of War
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: War Engineering
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 1
+  - talentName: Diplomatic Vision
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: State Management
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Political Science
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 2
+  - talentName: Lobbyist
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Persuasion
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  - talentName: Army Administration
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 3
+  vizierIndex: 50
+  size: 0.8411
+  YPositionFix: -267

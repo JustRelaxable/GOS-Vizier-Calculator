@@ -1,0 +1,48 @@
+
+minister_35.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 851, 909
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 432, 641
+  size: 417, 281
+  orig: 417, 281
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 514
+  size: 428, 408
+  orig: 428, 408
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 2, 173
+  size: 414, 339
+  orig: 414, 339
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 432, 355
+  size: 284, 414
+  orig: 284, 414
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 2
+  size: 169, 281
+  orig: 169, 281
+  offset: 0, 0
+  index: -1

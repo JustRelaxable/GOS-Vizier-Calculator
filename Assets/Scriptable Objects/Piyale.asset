@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Piyale
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Piyale
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: e368fec989d12494785ba7de9668d098,
+    type: 2}
+  talents:
+  - talentName: Naval Skills
+    talentStar: 2
+    currentStar: 2
+    talentAttribute: 0
+  - talentName: Foresight
+    talentStar: 2
+    currentStar: 2
+    talentAttribute: 1
+  - talentName: Art Of Leadership
+    talentStar: 2
+    currentStar: 2
+    talentAttribute: 2
+  - talentName: Creative Training
+    talentStar: 2
+    currentStar: 2
+    talentAttribute: 3
+  vizierIndex: 1
+  size: 0.9352
+  YPositionFix: -256

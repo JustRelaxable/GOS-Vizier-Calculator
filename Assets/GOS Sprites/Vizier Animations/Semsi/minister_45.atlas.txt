@@ -1,0 +1,82 @@
+
+minister_45_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 2, 2
+  size: 60, 13
+  orig: 60, 13
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 802, 193
+  size: 187, 328
+  orig: 187, 328
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: false
+  xy: 802, 523
+  size: 80, 477
+  orig: 80, 477
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: false
+  xy: 884, 558
+  size: 108, 442
+  orig: 108, 442
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 2, 233
+  size: 398, 767
+  orig: 398, 767
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 2, 17
+  size: 214, 659
+  orig: 214, 659
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 402, 233
+  size: 398, 767
+  orig: 398, 767
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: false
+  xy: 663, 169
+  size: 93, 62
+  orig: 93, 62
+  offset: 0, 0
+  index: -1
+
+minister_45_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou2
+  rotate: false
+  xy: 660, 2
+  size: 347, 455
+  orig: 347, 455
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 2, 36
+  size: 421, 656
+  orig: 421, 656
+  offset: 0, 0
+  index: -1

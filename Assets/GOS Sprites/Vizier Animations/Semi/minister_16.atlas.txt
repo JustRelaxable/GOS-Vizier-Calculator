@@ -1,0 +1,54 @@
+
+minister_16_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: true
+  xy: 978, 871
+  size: 92, 13
+  orig: 92, 13
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 2, 25
+  size: 108, 541
+  orig: 108, 541
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 488, 221
+  size: 488, 742
+  orig: 488, 742
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 545, 2
+  size: 217, 316
+  orig: 217, 316
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 2, 135
+  size: 484, 828
+  orig: 484, 828
+  offset: 0, 0
+  index: -1
+
+minister_16_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qunzi
+  rotate: false
+  xy: 2, 2
+  size: 476, 326
+  orig: 476, 326
+  offset: 0, 0
+  index: -1

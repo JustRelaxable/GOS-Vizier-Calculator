@@ -1,0 +1,97 @@
+
+minister_12.png
+size: 961,960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dao
+  rotate: false
+  xy: 485, 424
+  size: 217, 156
+  orig: 217, 156
+  offset: 0, 0
+  index: -1
+dayi1
+  rotate: true
+  xy: 485, 582
+  size: 223, 431
+  orig: 223, 431
+  offset: 0, 0
+  index: -1
+dayi2
+  rotate: true
+  xy: 485, 807
+  size: 151, 469
+  orig: 151, 469
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 21
+  size: 209, 397
+  orig: 209, 397
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 704, 428
+  size: 152, 217
+  orig: 152, 217
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 731, 4
+  size: 152, 170
+  orig: 152, 170
+  offset: 0, 0
+  index: -1
+neiqun1
+  rotate: true
+  xy: 610, 335
+  size: 87, 349
+  orig: 87, 349
+  offset: 0, 0
+  index: -1
+neiqun2
+  rotate: false
+  xy: 306, 69
+  size: 302, 349
+  orig: 302, 349
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 420
+  size: 481, 538
+  orig: 481, 538
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 731, 158
+  size: 212, 175
+  orig: 212, 175
+  offset: 0, 0
+  index: -1
+waixiu
+  rotate: false
+  xy: 610, 10
+  size: 119, 323
+  orig: 119, 323
+  offset: 0, 0
+  index: -1
+waixiu2
+  rotate: false
+  xy: 213, 44
+  size: 91, 374
+  orig: 91, 374
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 2, 2
+  size: 96, 17
+  orig: 96, 17
+  offset: 0, 0
+  index: -1

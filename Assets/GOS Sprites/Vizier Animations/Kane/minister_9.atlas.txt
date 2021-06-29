@@ -1,0 +1,62 @@
+
+minister_9.png
+size: 1004,601
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 614, 54
+  size: 84, 26
+  orig: 84, 26
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: false
+  xy: 554, 52
+  size: 58, 107
+  orig: 58, 107
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 614, 82
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 703, 62
+  size: 55, 97
+  orig: 55, 97
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 2, 2
+  size: 157, 550
+  orig: 157, 550
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 770, 232
+  size: 225, 367
+  orig: 225, 367
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 2, 161
+  size: 438, 766
+  orig: 438, 766
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 770, 17
+  size: 232, 213
+  orig: 232, 213
+  offset: 0, 0
+  index: -1

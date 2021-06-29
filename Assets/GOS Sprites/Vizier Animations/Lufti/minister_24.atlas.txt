@@ -1,0 +1,89 @@
+
+minister_24_1.png
+size: 1021,1018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYE
+  rotate: false
+  xy: 901, 323
+  size: 82, 19
+  orig: 82, 19
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: true
+  xy: 421, 2
+  size: 142, 438
+  orig: 142, 438
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 2, 359
+  size: 618, 657
+  orig: 618, 657
+  offset: 0, 0
+  index: -1
+coat1
+  rotate: true
+  xy: 2, 57
+  size: 300, 417
+  orig: 300, 417
+  offset: 0, 0
+  index: -1
+coat2
+  rotate: false
+  xy: 909, 601
+  size: 110, 415
+  orig: 110, 415
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 421, 146
+  size: 478, 196
+  orig: 478, 196
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: false
+  xy: 622, 344
+  size: 397, 244
+  orig: 397, 244
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 622, 590
+  size: 285, 426
+  orig: 285, 426
+  offset: 0, 0
+  index: -1
+
+minister_24_2.png
+size: 984,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 545, 206
+  size: 437, 492
+  orig: 437, 492
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 2
+  size: 541, 696
+  orig: 541, 696
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 545, 49
+  size: 155, 242
+  orig: 155, 242
+  offset: 0, 0
+  index: -1

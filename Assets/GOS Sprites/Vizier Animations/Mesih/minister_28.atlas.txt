@@ -1,0 +1,83 @@
+
+minister_28.png
+size: 1005,877
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 906, 810
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 962, 134
+  size: 92, 21
+  orig: 92, 21
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 425, 329
+  size: 175, 546
+  orig: 175, 546
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 602, 228
+  size: 242, 401
+  orig: 242, 401
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 522, 13
+  size: 124, 104
+  orig: 124, 104
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 2, 2
+  size: 208, 365
+  orig: 208, 365
+  offset: 0, 0
+  index: -1
+qunzi1
+  rotate: true
+  xy: 595, 119
+  size: 107, 365
+  orig: 107, 365
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: false
+  xy: 602, 472
+  size: 302, 403
+  orig: 302, 403
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 212
+  size: 421, 663
+  orig: 421, 663
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 369, 7
+  size: 151, 202
+  orig: 151, 202
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 425, 211
+  size: 116, 168
+  orig: 116, 168
+  offset: 0, 0
+  index: -1

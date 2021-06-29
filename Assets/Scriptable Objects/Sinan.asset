@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Sinan
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Sinan
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: b72b7cc6a4b9d8c4e80f9852d6e56788,
+    type: 2}
+  talents:
+  - talentName: Strategic Plan
+    talentStar: 1
+    currentStar: 1
+    talentAttribute: 0
+  - talentName: Foresight
+    talentStar: 2
+    currentStar: 2
+    talentAttribute: 1
+  - talentName: Rhetorical Arts
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 2
+  - talentName: Legal Practice
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Ethical Principles
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 3
+  vizierIndex: 31
+  size: 0.9635
+  YPositionFix: -246

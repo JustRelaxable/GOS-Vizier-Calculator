@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Kilic
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Kilic
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: 17478c75db1319640b272f03614e3498,
+    type: 2}
+  talents:
+  - talentName: Hunter Tracking
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Self-Defense
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 0
+  - talentName: Philosophical Training
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 1
+  - talentName: Art Of Leadership
+    talentStar: 2
+    currentStar: 2
+    talentAttribute: 2
+  - talentName: Chess Mastery
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 3
+  vizierIndex: 41
+  size: 1.2071
+  YPositionFix: -169
