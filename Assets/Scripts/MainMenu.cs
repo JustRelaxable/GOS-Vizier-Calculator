@@ -35,7 +35,10 @@ public class MainMenu : MonoBehaviour
         }
 
         asyncOperation.allowSceneActivation = true;
+    }
 
-
+    public void OpenDeveloperPage()
+    {
+        Application.OpenURL("https://play.google.com/store/apps/dev?id=6698319416173786698");
     }
 }

@@ -63,6 +63,7 @@ public class IntentManager : MonoBehaviour
 
     private void OnApplicationFocus(bool focused)
     {
+#if UNITY_ANDROID && !UNITY_EDITOR
         if (focused)
         {
             AndroidJavaClass UnityPlayer = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
@@ -108,6 +109,7 @@ public class IntentManager : MonoBehaviour
                 Debug.Log(e.Message);
             }
         }
+#endif
     }
 
     public void ShareViziers()

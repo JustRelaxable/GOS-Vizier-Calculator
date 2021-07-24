@@ -6,13 +6,19 @@ using UnityEngine.Advertisements;
 public class AdManager : MonoBehaviour , IUnityAdsListener
 {
     public GameObject cardSpawner;
+    public static AdManager instance;
     private void Awake()
     {
+        if(instance == null)
+        {
+            instance = this;
+        }
+
         Advertisement.Initialize("3427604", false);
         Advertisement.AddListener(this);
     }
 
-    public IEnumerator ShowAdWhenReady()
+    public IEnumerator ShowRewardedAd()
     {
         while (!Advertisement.IsReady("rewardedVideo"))
         {
@@ -21,9 +27,23 @@ public class AdManager : MonoBehaviour , IUnityAdsListener
         Advertisement.Show("rewardedVideo");
     }
 
-    public void OnClick()
+    public IEnumerator ShowFirstLoadAd()
     {
-        StartCoroutine(ShowAdWhenReady());
+        while (!Advertisement.IsReady("firstLoad"))
+        {
+            yield return new WaitForSeconds(0.1f);
+        }
+        Advertisement.Show("firstLoad");
+    }
+
+    public void OnClickRewardedAd()
+    {
+        StartCoroutine(ShowRewardedAd());
+    }
+
+    public void LoadFirstLoadAd()
+    {
+        StartCoroutine(ShowFirstLoadAd());
     }
 
     public void OnUnityAdsReady(string placementId)
@@ -43,20 +63,30 @@ public class AdManager : MonoBehaviour , IUnityAdsListener
 
     public void OnUnityAdsDidFinish(string placementId, UnityEngine.Advertisements.ShowResult showResult)
     {
-        switch (showResult)
+        switch (placementId)
         {
-            case UnityEngine.Advertisements.ShowResult.Failed:
+            case "rewardedVideo":
+                switch (showResult)
+                {
+                    case UnityEngine.Advertisements.ShowResult.Failed:
+                        break;
+                    case UnityEngine.Advertisements.ShowResult.Skipped:
+                        break;
+                    case UnityEngine.Advertisements.ShowResult.Finished:
+                        EfficiencyCard.adWatched = true;
+                        cardSpawner = GameObject.FindGameObjectWithTag("EfficiencyCardSpawner");
+                        cardSpawner.GetComponent<EfficiencyCardSpawner>().RemoveChilds();
+                        cardSpawner.GetComponent<EfficiencyCardSpawner>().GetMyViziers();
+                        break;
+                    default:
+                        break;
+                }
                 break;
-            case UnityEngine.Advertisements.ShowResult.Skipped:
-                break;
-            case UnityEngine.Advertisements.ShowResult.Finished:
-                EfficiencyCard.adWatched = true;
-                cardSpawner = GameObject.FindGameObjectWithTag("EfficiencyCardSpawner");
-                cardSpawner.GetComponent<EfficiencyCardSpawner>().RemoveChilds();
-                cardSpawner.GetComponent<EfficiencyCardSpawner>().GetMyViziers();
+            case "firstLoad":
                 break;
             default:
                 break;
         }
+
     }
 }

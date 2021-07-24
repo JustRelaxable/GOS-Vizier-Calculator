@@ -18,21 +18,21 @@ EditorBuildSettings:
     path: Assets/Scenes/sharedLister.unity
     guid: 8f2c02534d838034ba6e157b224e1ff6
   - enabled: 0
-    path: Assets/Scenes/mainMenu.unity
+    path: Assets/OldScenes/mainMenu.unity
     guid: 279448c80f93a5144a19ad8d6900320c
   - enabled: 0
-    path: Assets/Scenes/listViziers.unity
+    path: Assets/OldScenes/listViziers.unity
     guid: d7413b3bf63e7fd4987815bdaa588497
   - enabled: 0
-    path: Assets/Scenes/vizierCreate.unity
+    path: Assets/OldScenes/vizierCreate.unity
     guid: 4410208e087aad64d95224f55a044b44
   - enabled: 0
-    path: Assets/Scenes/vizierSelected.unity
+    path: Assets/OldScenes/vizierSelected.unity
     guid: 5dbf00fb51d563d439fec652d0dc38bf
   - enabled: 0
-    path: Assets/Scenes/detailedTab.unity
+    path: Assets/OldScenes/detailedTab.unity
     guid: 5998b89881ea2794daf2326990581901
   - enabled: 0
-    path: Assets/Scenes/growthCalculation.unity
+    path: Assets/OldScenes/growthCalculation.unity
     guid: 860f862019f35b7459bbc7c81e5439a2
   m_configObjects: {}

@@ -57,9 +57,14 @@ public class LocalizationManager : MonoBehaviour
     {
         if(PlayerPrefs.GetString("selectedLanguage") == "")
         {
+            string currentLanguage = "";
+#if UNITY_ANDROID && !UNITY_EDITOR
             AndroidJavaClass localeClass = new AndroidJavaClass("java.util.Locale");
-            string currentLanguage = localeClass.CallStatic<AndroidJavaObject>("getDefault").Call<string>("getLanguage");
-
+            currentLanguage = localeClass.CallStatic<AndroidJavaObject>("getDefault").Call<string>("getLanguage");
+#endif
+#if UNITY_EDITOR
+            currentLanguage = "en";
+#endif
             switch (currentLanguage)
             {
                 case "ru":

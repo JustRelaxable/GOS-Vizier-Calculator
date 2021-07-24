@@ -38,20 +38,27 @@ public class EfficiencyCard : MonoBehaviour
     {
         vizierName.text = vizierCardDataContainer.vizierName + "-" + vizierCardDataContainer.vizierLevel.ToString();
         EfficiencyData efficiencyData = vizierCardDataContainer.CalculateOverallPowerRaiseAtLevelUp();
-        overallEfficiencyText.text = efficiencyData.overallEfficiency.ToString("N0");
+        
         if (adWatched)
         {
             powerEfficiencyText.text = efficiencyData.powerEfficiency.ToString("N0");
+            overallEfficiencyText.text = efficiencyData.overallEfficiency.ToString("N0");
+            militaryEfficiencyText.text = efficiencyData.militaryEfficiency.ToString("N0");
+            researchEfficiencyText.text = efficiencyData.researchEfficiency.ToString("N0");
+            politicEfficiencyText.text = efficiencyData.politicEfficiency.ToString("N0");
+            prestigeEfficiencyText.text = efficiencyData.prestigeEfficiency.ToString("N0");
         }
 
         else
         {
             powerEfficiencyText.text = "?";
+            overallEfficiencyText.text = "?";
+            militaryEfficiencyText.text = "?";
+            researchEfficiencyText.text = "?";
+            politicEfficiencyText.text = "?";
+            prestigeEfficiencyText.text = "?";
         }
 
-        militaryEfficiencyText.text = efficiencyData.militaryEfficiency.ToString("N0");
-        researchEfficiencyText.text = efficiencyData.researchEfficiency.ToString("N0");
-        politicEfficiencyText.text = efficiencyData.politicEfficiency.ToString("N0");
-        prestigeEfficiencyText.text = efficiencyData.prestigeEfficiency.ToString("N0");
+       
     }
 }
