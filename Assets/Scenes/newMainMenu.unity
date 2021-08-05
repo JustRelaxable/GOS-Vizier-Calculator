@@ -429,13 +429,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Vezirinizi se\xE7ip, t\xFCm de\u011Ferlerini ve yeteneklerini ayarlad\u0131ktan
-    sonra bu verimlilik de\u011Ferlerini g\xF6rebiliyorsunuz. Peki nedir bu \"Verimlilik\"
-    denen \u015Fey? Asl\u0131nda \xE7ok basit, verimlilik dedi\u011Fimiz \u015Fey
-    harcad\u0131\u011F\u0131n\u0131z alt\u0131ndan kazand\u0131\u011F\u0131n\u0131z
-    devlet g\xFCc\xFC olarak d\xFC\u015F\xFCn\xFClebilir, yani k\u0131saca alt\u0131n
-    ba\u015F\u0131na ald\u0131\u011F\u0131n\u0131z devlet g\xFCc\xFC miktar\u0131
-    da diyebilirsiniz."
+  m_Text: You can see these efficiency values after you choose your vizier and set
+    all his values and abilities. So what is this thing called "Efficiency"? It's
+    actually very simple, what we call efficiency can be thought of as the state
+    power you earn from the gold you spend, in short, you can also say the amount
+    of state power you get per gold.
 --- !u!222 &84015009
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -899,9 +897,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Bu sekmede vezirinizin seviye atlad\u0131\u011F\u0131nda kazanaca\u011F\u0131n\u0131z
-    dg ve g\xFC\xE7 miktarlar\u0131n\u0131 g\xF6rebilirsiniz. Ortada g\xF6rd\xFC\u011F\xFCn\xFCz
-    ise seviye atlarken kullanman\u0131z gereken alt\u0131n miktar\u0131d\u0131r."
+  m_Text: In this tab, you can see the amount of sp and power your vizier will gain
+    when he levels up. What you see in the middle is the amount of gold you need
+    to use while leveling up.
 --- !u!222 &135100424
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1127,7 +1125,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -44.19995}
+  m_AnchoredPosition: {x: 0, y: -92}
   m_SizeDelta: {x: 688.8, y: 4935.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &245978957
@@ -2059,7 +2057,7 @@ PrefabInstance:
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 1.5
+      value: 5.5
       objectReference: {fileID: 0}
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
@@ -2069,7 +2067,7 @@ PrefabInstance:
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 5.100006
+      value: -9.899994
       objectReference: {fileID: 0}
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
@@ -2079,7 +2077,7 @@ PrefabInstance:
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0.3475
+      value: 0.32576564
       objectReference: {fileID: 0}
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
@@ -2089,7 +2087,7 @@ PrefabInstance:
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0.42325002
+      value: 0.4121094
       objectReference: {fileID: 0}
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
@@ -2339,11 +2337,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "------------------------------------------\nGeri d\xF6n\xFC\u015Fleriniz
-    ve fikirleriniz benim i\xE7in \xE7ok \xF6nemli, bu uygulamada neler g\xF6rmek
-    isterdiniz veya nas\u0131l daha faydal\u0131 olabilir vs tarz\u0131nda fikirleriniz
-    i\xE7in benimle tahasokmen222@gmail.com mail \xFCzerinden ileti\u015Fime ge\xE7ebilirsiniz.
-    \nHepinize iyi oyunlar diliyorum..."
+  m_Text: '------------------------------------------
+
+    Your feedback and ideas
+    are very important to me, what would you like to see in this application or how
+    it can be more useful, etc. You can contact me for your ideas, you can comment
+    on the play store.'
 --- !u!222 &399516918
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2496,9 +2495,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Son olarak bir de cariye bonusu sekmemiz var, cariyesi olmayan vezirlerde
-    buras\u0131 %0 olarak b\u0131rak\u0131labilir, uyum \xF6zelli\u011Fi olan vezirlerde
-    ise oyundakinin ayn\u0131 de\u011Feri girerseniz hi\xE7bir problem olu\u015Fmaz."
+  m_Text: Finally, we have a concubine bonus tab. For viziers without a concubine,
+    this can be left as 0%, for viziers with compatibility, if you enter the same
+    value as in the game, there will be no problem.
 --- !u!222 &477765139
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2847,7 +2846,7 @@ RectTransform:
   - {fileID: 938209001}
   - {fileID: 1472629898}
   m_Father: {fileID: 1737186736}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2952,7 +2951,7 @@ RectTransform:
   m_Children:
   - {fileID: 697352483}
   m_Father: {fileID: 1737186736}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.10125001, y: 0.67600006}
   m_AnchorMax: {x: 0.89375, y: 0.92037505}
@@ -3237,6 +3236,50 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 589733780}
   m_CullTransparentMesh: 0
+--- !u!1 &610175157
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 610175159}
+  - component: {fileID: 610175158}
+  m_Layer: 0
+  m_Name: TutorialManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &610175158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 610175157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688842e236fc37b458c3f5a8e1502bc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tutorialScreen: {fileID: 552296552}
+--- !u!4 &610175159
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 610175157}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 526.5686, y: 916.846, z: -1614.0544}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &697352482
 GameObject:
   m_ObjectHideFlags: 0
@@ -3976,10 +4019,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xD6ncelikle uygulamama ho\u015Fgeldiniz :)\n\nBu uygulamada sizlere vezirleriniz
-    hakk\u0131nda daha fazla bilgi vermeyi ama\xE7lad\u0131m. \u0130lk ba\u015Fta
-    say\u0131lar\u0131n anla\u015F\u0131lmas\u0131 zor olabilir, lakin zamanla anlayaca\u011F\u0131n\u0131zdan
-    eminim. \n\n\xD6ncelikle bilmeniz gereken ilk \u015Fey \"Verimlilik Listesi\"."
+  m_Text: 'First of all, welcome to my app :)
+
+    
+
+    In this application, I
+    aimed to give you more information about your viziers. The numbers may be difficult
+    to understand at first, but I''m sure you''ll understand over time.
+
+    
+
+    The
+    first thing you need to know is the "Efficiency List".'
 --- !u!222 &970844443
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4170,7 +4221,7 @@ PrefabInstance:
     - target: {fileID: 2166331199984509148, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2166331199984509150, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
@@ -4270,7 +4321,7 @@ PrefabInstance:
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 30.000008
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
@@ -4290,7 +4341,7 @@ PrefabInstance:
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0.40300003
+      value: 0.4471875
       objectReference: {fileID: 0}
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
@@ -4300,7 +4351,7 @@ PrefabInstance:
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0.47881252
+      value: 0.5232031
       objectReference: {fileID: 0}
     - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
         type: 3}
@@ -4538,6 +4589,233 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1125932138}
   m_CullTransparentMesh: 0
+--- !u!1001 &1164032460
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1737186736}
+    m_Modifications:
+    - target: {fileID: 2166331199984509137, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 48202dfd83b5f564599dd3dcdf93a8fc,
+        type: 3}
+    - target: {fileID: 2166331199984509137, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_Type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509148, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_Name
+      value: HelpMe
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509148, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509150, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509150, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509150, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509150, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1737186737}
+    - target: {fileID: 2166331199984509150, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SendTranslationEmail
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509150, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509150, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 3.600006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 1.1000061
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.19000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.22989063
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.81000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.30889064
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331200138177262, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_Text
+      value: Help me for translation of this App!
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166331200138177262, guid: 063a43370a671ec43918e97aa368722a,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: af7df5ea4eef01341966881ba63091f3,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 063a43370a671ec43918e97aa368722a, type: 3}
+--- !u!224 &1164032461 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 2166331199984509151, guid: 063a43370a671ec43918e97aa368722a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1164032460}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1164032462 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2166331200138177260, guid: 063a43370a671ec43918e97aa368722a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1164032460}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1164032463 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2166331199984509148, guid: 063a43370a671ec43918e97aa368722a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1164032460}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1164032464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1164032462}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96996cebb86802946a8a1e22e345a248, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: translation
+--- !u!114 &1164032465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1164032463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 5.17, y: -6.19}
+  m_UseGraphicAlpha: 1
 --- !u!1 &1182116286
 GameObject:
   m_ObjectHideFlags: 0
@@ -5330,7 +5608,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d6b24119fd614a409f3eaa2d692ec1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  appVersion: 1.0.0
+  appVersion: 1.1.0
   currentVersion: 
   updatePanel: {fileID: 1244921718}
 --- !u!4 &1668460098
@@ -5416,11 +5694,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Burda g\xF6rd\xFC\u011F\xFCn\xFCz de\u011Ferler sizin vezirinizin verimlilik
-    de\u011Ferleriniz olup, seviye atlamadaki de\u011Ferleri g\xF6stermektedir.Sol
-    \xFCstten ba\u015Flayarak s\u0131ras\u0131yla, toplam dg verimlili\u011Fi, g\xFC\xE7
-    verimlili\u011Fi, dg g\xFC\xE7 verimlili\u011Fi, bilgi verimlili\u011Fi, prestij
-    verimlili\u011Fi, ve politika verimlili\u011Fidir."
+  m_Text: The values you see here are your vizier's efficiency values and it shows
+    the values for leveling up. Starting from the top left, they are total sp efficiency,
+    power efficiency, sp power efficiency, information efficiency, prestige efficiency,
+    and politics efficiency, respectively.
 --- !u!222 &1711350941
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5834,6 +6111,7 @@ RectTransform:
   - {fileID: 1007909543}
   - {fileID: 1121594032}
   - {fileID: 318177592}
+  - {fileID: 1164032461}
   - {fileID: 2010887414}
   - {fileID: 559210491}
   - {fileID: 1973483567}
@@ -6248,7 +6526,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.00024844892}
+  m_AnchoredPosition: {x: 0, y: -0.00005768821}
   m_SizeDelta: {x: 0, y: 5024}
   m_Pivot: {x: 0, y: 1}
 --- !u!1 &1857211379
@@ -6447,7 +6725,7 @@ RectTransform:
   - {fileID: 452600985}
   - {fileID: 1857211380}
   m_Father: {fileID: 1737186736}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -6554,7 +6832,7 @@ RectTransform:
   - {fileID: 778284626}
   - {fileID: 1785324835}
   m_Father: {fileID: 1737186736}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.22070314}
   m_AnchorMax: {x: 1, y: 0.78400004}
@@ -6645,7 +6923,7 @@ RectTransform:
   m_Children:
   - {fileID: 184015448}
   m_Father: {fileID: 1737186736}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.0775, y: 0.8880001}
   m_AnchorMax: {x: 0.3325, y: 0.9238906}
@@ -6877,9 +7155,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Bu sekmede ise vezirinizin yeteneklerini g\xF6rebilir, bu yeteneklerin
-    \xFCzerlerine t\u0131klayarak hesab\u0131n\u0131zdaki vezirin de\u011Ferlerini
-    girebilirsiniz."
+  m_Text: In this tab, you can see your vizier's abilities, click on these abilities
+    and enter the values of the vizier in your account.
 --- !u!222 &2050766533
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7085,7 +7362,7 @@ PrefabInstance:
     - target: {fileID: 7443360487829060098, guid: 7a9e6ea9f668fcb4d98cf4da53dc442a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7443360487829060098, guid: 7a9e6ea9f668fcb4d98cf4da53dc442a,
         type: 3}

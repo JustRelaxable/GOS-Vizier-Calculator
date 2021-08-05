@@ -41,4 +41,16 @@ public class MainMenu : MonoBehaviour
     {
         Application.OpenURL("https://play.google.com/store/apps/dev?id=6698319416173786698");
     }
+
+    public void SendTranslationEmail()
+    {
+        string email = "rc2std@gmail.com";
+        string subject = MyEscapeURL("About Translation of GoS Vizier Calculator Application");
+        string body = MyEscapeURL("Please write the language you want to translate. I will contact with you as soon as possible");
+        Application.OpenURL("mailto:" + email + "?subject=" + subject + "&body=" + body);
+    }
+    string MyEscapeURL(string url)
+    {
+        return WWW.EscapeURL(url).Replace("+", "%20");
+    }
 }
