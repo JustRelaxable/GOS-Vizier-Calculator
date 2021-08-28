@@ -1,0 +1,89 @@
+
+minister_71_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 951, 889
+  size: 114, 18
+  orig: 114, 18
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 549, 567
+  size: 400, 436
+  orig: 400, 436
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 743, 75
+  size: 137, 278
+  orig: 137, 278
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 549, 214
+  size: 450, 351
+  orig: 450, 351
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 2, 4
+  size: 515, 466
+  orig: 515, 466
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 519, 2
+  size: 222, 210
+  orig: 222, 210
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 472
+  size: 545, 531
+  orig: 545, 531
+  offset: 0, 0
+  index: -1
+
+minister_71_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: true
+  xy: 2, 198
+  size: 224, 635
+  orig: 224, 635
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 639, 244
+  size: 165, 178
+  orig: 165, 178
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 2, 2
+  size: 194, 545
+  orig: 194, 545
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 806, 246
+  size: 103, 176
+  orig: 103, 176
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Minister62
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Elvin
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: 03d3fdd0d94db434881d35a7efaf059f,
+    type: 2}
+  talents:
+  - talentName: Archery Training
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Quich March
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Multiculturalism
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 2
+  - talentName: Advanced Tactics
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Discerning
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 2
+  - talentName: Loyal and Brave
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 3
+  - talentName: Skillful
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 1
+  - talentName: Invincible Swordplay
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Deft Duelling
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Maltese Dance
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Shadow Strike
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Ingenious Fighter
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Tactical Thinking
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Gifted General
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Vigilant Espionage
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Keen Intuition
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Web of Knowledge
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Effortless Movement
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Sparkling Wit
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  vizierIndex: 62
+  size: 0.55
+  YPositionFix: -475

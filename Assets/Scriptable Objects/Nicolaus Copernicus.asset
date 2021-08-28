@@ -16,7 +16,87 @@ MonoBehaviour:
   vizierName: Nicolaus Copernicus
   vizierSkeletonDataAsset: {fileID: 11400000, guid: cb3b4834d63d6e041a061f3360a00945,
     type: 2}
-  talents: []
+  talents:
+  - talentName: Sword and Shield
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 0
+  - talentName: Western Campaign
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Quick March
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Foreign Arms
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Cannon Training
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Gegraphy Science
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 1
+  - talentName: Natural History
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: History of War
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: Legal Theory
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Soil Research
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 2
+  - talentName: Chess Mastery
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 3
+  - talentName: Self-Reliance
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  - talentName: Art of Oratory
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  - talentName: Natural Events
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Weather Forecaster
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Cartographer
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Artistic
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Nature and Society
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Kindheartedness
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Faithful
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
   vizierIndex: 55
   size: 0.83
   YPositionFix: -283

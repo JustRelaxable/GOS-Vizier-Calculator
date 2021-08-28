@@ -1,0 +1,493 @@
+
+minister_63_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 679, 234
+  size: 89, 20
+  orig: 89, 20
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 550, 132
+  size: 127, 191
+  orig: 127, 191
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 411, 325
+  size: 697, 314
+  orig: 697, 314
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 411, 280
+  size: 43, 89
+  orig: 43, 89
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 27, 65
+  orig: 27, 65
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 727, 588
+  size: 286, 434
+  orig: 286, 434
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 273
+  size: 407, 749
+  orig: 407, 749
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 550, 25
+  size: 105, 135
+  orig: 105, 135
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 687, 100
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00000
+  rotate: false
+  xy: 727, 215
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+bozibaoshi/bozibaoshi00000
+  rotate: false
+  xy: 797, 122
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+bozibaoshi/bozibaoshi00001
+  rotate: false
+  xy: 890, 122
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+bozibaoshi/bozibaoshi00002
+  rotate: false
+  xy: 687, 7
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+bozibaoshi/bozibaoshi00003
+  rotate: false
+  xy: 797, 29
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+bozibaoshi/bozibaoshi00004
+  rotate: false
+  xy: 890, 29
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+daoshen/daoshen00000
+  rotate: false
+  xy: 2, 152
+  size: 546, 119
+  orig: 546, 119
+  offset: 0, 0
+  index: -1
+daoshen/daoshen00001
+  rotate: false
+  xy: 2, 31
+  size: 546, 119
+  orig: 546, 119
+  offset: 0, 0
+  index: -1
+
+minister_63_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 600
+  size: 307, 417
+  orig: 307, 417
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 738, 27
+  size: 223, 254
+  orig: 223, 254
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00001
+  rotate: false
+  xy: 365, 283
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00002
+  rotate: false
+  xy: 646, 283
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00003
+  rotate: true
+  xy: 365, 2
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+bozibaoshi/bozibaoshi00005
+  rotate: false
+  xy: 859, 926
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+bozibaoshi/bozibaoshi00006
+  rotate: false
+  xy: 859, 833
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+bozibaoshi/bozibaoshi00007
+  rotate: false
+  xy: 859, 740
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+daoshen/daoshen00002
+  rotate: true
+  xy: 2, 52
+  size: 546, 119
+  orig: 546, 119
+  offset: 0, 0
+  index: -1
+daoshen/daoshen00003
+  rotate: false
+  xy: 311, 898
+  size: 546, 119
+  orig: 546, 119
+  offset: 0, 0
+  index: -1
+daoshen/daoshen00004
+  rotate: true
+  xy: 123, 52
+  size: 546, 119
+  orig: 546, 119
+  offset: 0, 0
+  index: -1
+daoshen/daoshen00005
+  rotate: false
+  xy: 311, 777
+  size: 546, 119
+  orig: 546, 119
+  offset: 0, 0
+  index: -1
+daoshen/daoshen00006
+  rotate: false
+  xy: 311, 656
+  size: 546, 119
+  orig: 546, 119
+  offset: 0, 0
+  index: -1
+daoshen/daoshen00007
+  rotate: true
+  xy: 244, 52
+  size: 546, 119
+  orig: 546, 119
+  offset: 0, 0
+  index: -1
+jianbinbaoshi/jianbinbaoshi00000
+  rotate: false
+  xy: 927, 647
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jianbinbaoshi/jianbinbaoshi00001
+  rotate: false
+  xy: 927, 554
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jianbinbaoshi/jianbinbaoshi00002
+  rotate: false
+  xy: 927, 461
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jianbinbaoshi/jianbinbaoshi00003
+  rotate: false
+  xy: 927, 368
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+
+minister_63_3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/huangjinlizi_00004
+  rotate: false
+  xy: 2, 564
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00005
+  rotate: true
+  xy: 2, 283
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00006
+  rotate: true
+  xy: 283, 656
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00007
+  rotate: false
+  xy: 375, 283
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00008
+  rotate: true
+  xy: 2, 2
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00009
+  rotate: true
+  xy: 375, 2
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00010
+  rotate: false
+  xy: 656, 564
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+jianbinbaoshi/jianbinbaoshi00004
+  rotate: false
+  xy: 656, 471
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jianbinbaoshi/jianbinbaoshi00005
+  rotate: false
+  xy: 656, 378
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jianbinbaoshi/jianbinbaoshi00006
+  rotate: false
+  xy: 656, 285
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jianbinbaoshi/jianbinbaoshi00007
+  rotate: false
+  xy: 748, 192
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiantong/jiantong00000
+  rotate: false
+  xy: 748, 99
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiantong/jiantong00001
+  rotate: false
+  xy: 748, 6
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiantong/jiantong00002
+  rotate: false
+  xy: 749, 471
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiantong/jiantong00003
+  rotate: false
+  xy: 749, 378
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiantong/jiantong00004
+  rotate: false
+  xy: 749, 285
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiantong/jiantong00005
+  rotate: false
+  xy: 841, 192
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiantong/jiantong00006
+  rotate: false
+  xy: 841, 99
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiantong/jiantong00007
+  rotate: false
+  xy: 841, 6
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiezhi/jiezhi00000
+  rotate: false
+  xy: 842, 471
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiezhi/jiezhi00001
+  rotate: false
+  xy: 842, 378
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiezhi/jiezhi00002
+  rotate: false
+  xy: 842, 285
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+
+minister_63_4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/huangjinlizi_00011
+  rotate: false
+  xy: 2, 561
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00012
+  rotate: false
+  xy: 2, 188
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00013
+  rotate: false
+  xy: 283, 561
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00014
+  rotate: false
+  xy: 283, 188
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+PNG/huangjinlizi_00015
+  rotate: false
+  xy: 564, 561
+  size: 279, 371
+  orig: 279, 371
+  offset: 0, 0
+  index: -1
+jiezhi/jiezhi00003
+  rotate: false
+  xy: 2, 95
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiezhi/jiezhi00004
+  rotate: false
+  xy: 564, 468
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiezhi/jiezhi00005
+  rotate: false
+  xy: 845, 841
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiezhi/jiezhi00006
+  rotate: false
+  xy: 2, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+jiezhi/jiezhi00007
+  rotate: false
+  xy: 95, 95
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

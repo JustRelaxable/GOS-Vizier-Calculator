@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Minister64
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Jasmine
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: 826f2bb3087545740bb8382934e65220,
+    type: 2}
+  talents:
+  - talentName: Circassian Swords
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Shield of Unyielding
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Strength Training
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 0
+  - talentName: Pharmaceutical Knowledge
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Focused
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Armor Research
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 1
+  - talentName: Ethnosociology
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Resource Recycling
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Normadic Management
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 2
+  - talentName: Vengeance
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Power of Will
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Heart of Selfless
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 3
+  vizierIndex: 64
+  size: 0.75
+  YPositionFix: -325

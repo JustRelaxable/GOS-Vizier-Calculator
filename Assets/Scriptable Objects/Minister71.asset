@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Minister71
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Demirhan
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: de38b4d302b43c44e8ffff1500360a9a,
+    type: 2}
+  talents:
+  - talentName: The Art of War
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 0
+  - talentName: Western Campaign
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Philosophical Training
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 1
+  - talentName: Natural History
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: Conflict Resolution
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Persuassion
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  vizierIndex: 71
+  size: 0.55
+  YPositionFix: -500

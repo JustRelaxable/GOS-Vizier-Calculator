@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Minister70
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Asaf
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: 533b892058a86e744a63a676ad4dadd2,
+    type: 2}
+  talents:
+  - talentName: Soyokan Combat
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 0
+  - talentName: Physical Prowess
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: War Engineering
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 1
+  - talentName: Cultural Adaptation
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: Agricultural Policy
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Art of Oratory
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  vizierIndex: 70
+  size: 0.8
+  YPositionFix: -300

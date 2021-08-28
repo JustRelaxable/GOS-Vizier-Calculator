@@ -4,6 +4,13 @@
 
 Shader "Spine/Skeleton Fill" {
 	Properties {
+
+		_StencilComp("Stencil Comparison", Float) = 8
+		_Stencil("Stencil ID", Float) = 0
+		_StencilOp("Stencil Operation", Float) = 0
+		_StencilWriteMask("Stencil Write Mask", Float) = 255
+		_StencilReadMask("Stencil Read Mask", Float) = 255
+
 		_FillColor ("FillColor", Color) = (1,1,1,1)
 		_FillPhase ("FillPhase", Range(0, 1)) = 0
 		[NoScaleOffset]_MainTex ("MainTex", 2D) = "white" {}
@@ -14,6 +21,16 @@ Shader "Spine/Skeleton Fill" {
 		Cull Off
 		ZWrite Off
 		Lighting Off
+
+
+		Stencil
+		{
+			Ref 3
+			Comp Equal
+			//Pass Replace
+			ReadMask[_StencilReadMask]
+			WriteMask[_StencilWriteMask]
+		}
 
 		Pass {
 			CGPROGRAM

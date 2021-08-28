@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Minister57
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Tolana
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: e9f9c54ae944789469471b05b0665a9f,
+    type: 2}
+  talents:
+  - talentName: Yesuken Mastery
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 0
+  - talentName: Matrak Combat
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Yatagan Mastery
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Philosophical Training
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 1
+  - talentName: Anthro. Linguistics
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: Multiculturalism
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 2
+  - talentName: Conflict Resolution
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Close Quarters Fighting
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 3
+  - talentName: Self-Reliance
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  - talentName: Philantrophy
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Cartographer
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Contact Theory
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  vizierIndex: 57
+  size: 0.9
+  YPositionFix: -250

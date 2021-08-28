@@ -5925,7 +5925,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 437727158}
   m_HandleRect: {fileID: 437727157}
   m_Direction: 2
-  m_Value: 1
+  m_Value: 0
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -6808,6 +6808,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a15e7c40cb7543044bd1ed089c15adfe, type: 2}
   - {fileID: 11400000, guid: 261775c6efd00fb4f97e5c2169bcb6cf, type: 2}
   - {fileID: 11400000, guid: dd629afcf18b5d54b8efa53f98fde700, type: 2}
+  - {fileID: 11400000, guid: b4e690bd405596847bfa3cc05d0327d5, type: 2}
+  - {fileID: 11400000, guid: b4e690bd405596847bfa3cc05d0327d5, type: 2}
   parent: {fileID: 0}
 --- !u!114 &1939138431
 MonoBehaviour:
@@ -7591,9 +7593,110 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
         type: 3}
+      propertyPath: vizierCards.Array.size
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
       propertyPath: parent
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[56]
+      value: 
+      objectReference: {fileID: 11400000, guid: b4e690bd405596847bfa3cc05d0327d5,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[57]
+      value: 
+      objectReference: {fileID: 11400000, guid: 236601b5d60ceb04f85220a98c84149b,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[58]
+      value: 
+      objectReference: {fileID: 11400000, guid: c8ebc81cdfe97694ca36fa0120f8cc12,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[59]
+      value: 
+      objectReference: {fileID: 11400000, guid: 1c96528eba63f90428c9a00a7f0baebd,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[60]
+      value: 
+      objectReference: {fileID: 11400000, guid: 574890b7c63d3dd488610e4f44901ca3,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[61]
+      value: 
+      objectReference: {fileID: 11400000, guid: b0179cc4e85535143b7286a12fe1f082,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[62]
+      value: 
+      objectReference: {fileID: 11400000, guid: 52c7809f9b66afc4e84047b8a76bc5ac,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[63]
+      value: 
+      objectReference: {fileID: 11400000, guid: 3e03aab7830354746ae733e37afebfb7,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[64]
+      value: 
+      objectReference: {fileID: 11400000, guid: f591656d851c31f42a9afc1bc869ae37,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[65]
+      value: 
+      objectReference: {fileID: 11400000, guid: 5663d019ce9334041bd3171a467d2b4a,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[66]
+      value: 
+      objectReference: {fileID: 11400000, guid: 252fccd829801a7498068eba2ec2aaf4,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[67]
+      value: 
+      objectReference: {fileID: 11400000, guid: d53976cbb0aa20a4ba26b5241e6baf18,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[68]
+      value: 
+      objectReference: {fileID: 11400000, guid: 660e1c44c6e79bf4982a6ef7a32225a9,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[69]
+      value: 
+      objectReference: {fileID: 11400000, guid: 7e989cce0032a554381c7422969dbc1c,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[70]
+      value: 
+      objectReference: {fileID: 11400000, guid: 199549a37a813174c93b6907c1cbc28b,
+        type: 2}
+    - target: {fileID: 5770945040034566546, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
+        type: 3}
+      propertyPath: vizierCards.Array.data[71]
+      value: 
+      objectReference: {fileID: 11400000, guid: 040b7d8355854344a872d8f296da50d8,
+        type: 2}
     - target: {fileID: 5770945040034566547, guid: 81c307c0326fc5d48abc7cc56e87c5ec,
         type: 3}
       propertyPath: m_Name

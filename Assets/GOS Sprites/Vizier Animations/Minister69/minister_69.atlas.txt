@@ -1,0 +1,458 @@
+
+minister_69_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 2, 7
+  size: 92, 20
+  orig: 92, 20
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 564, 452
+  size: 402, 249
+  orig: 402, 249
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 886, 4
+  size: 124, 222
+  orig: 124, 222
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 2, 29
+  size: 498, 174
+  orig: 498, 174
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 724, 228
+  size: 295, 222
+  orig: 295, 222
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 564, 703
+  size: 308, 458
+  orig: 308, 458
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 178, 210
+  size: 317, 382
+  orig: 317, 382
+  offset: 0, 0
+  index: -1
+剑/jian_00000
+  rotate: false
+  xy: 2, 771
+  size: 560, 240
+  orig: 560, 240
+  offset: 0, 0
+  index: -1
+剑/jian_00001
+  rotate: false
+  xy: 2, 529
+  size: 560, 240
+  orig: 560, 240
+  offset: 0, 0
+  index: -1
+左腕/zuowan_00000
+  rotate: false
+  xy: 724, 2
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+胸/xiong_00000
+  rotate: false
+  xy: 444, 8
+  size: 264, 200
+  orig: 264, 200
+  offset: 0, 0
+  index: -1
+胸/xiong_00007
+  rotate: false
+  xy: 178, 8
+  size: 264, 200
+  orig: 264, 200
+  offset: 0, 0
+  index: -1
+腰带/yaodai_00000
+  rotate: true
+  xy: 562, 210
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+
+minister_69_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: true
+  xy: 880, 330
+  size: 160, 107
+  orig: 160, 107
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 564, 2
+  size: 260, 105
+  orig: 260, 105
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 564, 109
+  size: 351, 314
+  orig: 351, 314
+  offset: 0, 0
+  index: -1
+上身花纹/shangsehnhuawen_00000
+  rotate: false
+  xy: 880, 168
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
+上身花纹/shangsehnhuawen_00001
+  rotate: false
+  xy: 880, 6
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
+剑/jian_00002
+  rotate: false
+  xy: 2, 782
+  size: 560, 240
+  orig: 560, 240
+  offset: 0, 0
+  index: -1
+剑/jian_00003
+  rotate: false
+  xy: 2, 540
+  size: 560, 240
+  orig: 560, 240
+  offset: 0, 0
+  index: -1
+剑/jian_00004
+  rotate: false
+  xy: 2, 298
+  size: 560, 240
+  orig: 560, 240
+  offset: 0, 0
+  index: -1
+剑/jian_00005
+  rotate: true
+  xy: 564, 462
+  size: 560, 240
+  orig: 560, 240
+  offset: 0, 0
+  index: -1
+剑/jian_00006
+  rotate: false
+  xy: 2, 56
+  size: 560, 240
+  orig: 560, 240
+  offset: 0, 0
+  index: -1
+胸/xiong_00001
+  rotate: true
+  xy: 806, 758
+  size: 264, 200
+  orig: 264, 200
+  offset: 0, 0
+  index: -1
+胸/xiong_00002
+  rotate: true
+  xy: 806, 492
+  size: 264, 200
+  orig: 264, 200
+  offset: 0, 0
+  index: -1
+
+minister_69_3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+05
+  rotate: false
+  xy: 2, 260
+  size: 186, 272
+  orig: 186, 272
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 564, 854
+  size: 162, 285
+  orig: 162, 285
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 2
+  size: 239, 256
+  orig: 239, 256
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 564, 575
+  size: 277, 282
+  orig: 277, 282
+  offset: 0, 0
+  index: -1
+上身花纹/shangsehnhuawen_00002
+  rotate: false
+  xy: 716, 251
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
+剑/jian_00007
+  rotate: false
+  xy: 2, 776
+  size: 560, 240
+  orig: 560, 240
+  offset: 0, 0
+  index: -1
+左腕/zuowan_00001
+  rotate: false
+  xy: 647, 25
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+左腕/zuowan_00002
+  rotate: false
+  xy: 809, 25
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+左臂/zuobi_00000
+  rotate: false
+  xy: 594, 291
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+胸/xiong_00003
+  rotate: true
+  xy: 190, 268
+  size: 264, 200
+  orig: 264, 200
+  offset: 0, 0
+  index: -1
+胸/xiong_00004
+  rotate: true
+  xy: 243, 2
+  size: 264, 200
+  orig: 264, 200
+  offset: 0, 0
+  index: -1
+胸/xiong_00005
+  rotate: true
+  xy: 392, 268
+  size: 264, 200
+  orig: 264, 200
+  offset: 0, 0
+  index: -1
+胸/xiong_00006
+  rotate: true
+  xy: 445, 2
+  size: 264, 200
+  orig: 264, 200
+  offset: 0, 0
+  index: -1
+腰带/yaodai_00001
+  rotate: true
+  xy: 851, 776
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+腰带/yaodai_00002
+  rotate: true
+  xy: 848, 534
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+腰带/yaodai_00003
+  rotate: true
+  xy: 2, 534
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+腰带/yaodai_00004
+  rotate: true
+  xy: 164, 534
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+腰带/yaodai_00005
+  rotate: true
+  xy: 326, 534
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+腰带/yaodai_00006
+  rotate: false
+  xy: 594, 413
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+腰带/yaodai_00007
+  rotate: true
+  xy: 836, 292
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+
+minister_69_4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+上身花纹/shangsehnhuawen_00003
+  rotate: false
+  xy: 326, 124
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
+上身花纹/shangsehnhuawen_00004
+  rotate: false
+  xy: 488, 350
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
+上身花纹/shangsehnhuawen_00005
+  rotate: false
+  xy: 594, 350
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
+上身花纹/shangsehnhuawen_00006
+  rotate: false
+  xy: 700, 350
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
+上身花纹/shangsehnhuawen_00007
+  rotate: false
+  xy: 806, 350
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
+左腕/zuowan_00003
+  rotate: false
+  xy: 2, 286
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+左腕/zuowan_00004
+  rotate: false
+  xy: 2, 60
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+左腕/zuowan_00005
+  rotate: false
+  xy: 164, 286
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+左腕/zuowan_00006
+  rotate: false
+  xy: 164, 60
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+左腕/zuowan_00007
+  rotate: false
+  xy: 326, 286
+  size: 160, 224
+  orig: 160, 224
+  offset: 0, 0
+  index: -1
+左臂/zuobi_00001
+  rotate: false
+  xy: 326, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+左臂/zuobi_00002
+  rotate: false
+  xy: 488, 228
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+左臂/zuobi_00003
+  rotate: false
+  xy: 610, 228
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+左臂/zuobi_00004
+  rotate: false
+  xy: 732, 228
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+左臂/zuobi_00005
+  rotate: false
+  xy: 854, 228
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+左臂/zuobi_00006
+  rotate: false
+  xy: 448, 106
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+左臂/zuobi_00007
+  rotate: false
+  xy: 570, 106
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

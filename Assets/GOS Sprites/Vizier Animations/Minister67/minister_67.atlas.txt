@@ -1,0 +1,75 @@
+
+minister_67_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 991, 926
+  size: 86, 25
+  orig: 86, 25
+  offset: 0, 0
+  index: -1
+01
+  rotate: true
+  xy: 838, 382
+  size: 292, 144
+  orig: 292, 144
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 667, 21
+  size: 169, 991
+  orig: 169, 991
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 2
+  size: 451, 1010
+  orig: 451, 1010
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 838, 177
+  size: 92, 203
+  orig: 92, 203
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 455, 2
+  size: 210, 1010
+  orig: 210, 1010
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 838, 676
+  size: 151, 336
+  orig: 151, 336
+  offset: 0, 0
+  index: -1
+
+minister_67_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: true
+  xy: 611, 10
+  size: 239, 368
+  orig: 239, 368
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 2, 2
+  size: 247, 607
+  orig: 247, 607
+  offset: 0, 0
+  index: -1

@@ -16,7 +16,83 @@ MonoBehaviour:
   vizierName: Leonardo Da Vinci
   vizierSkeletonDataAsset: {fileID: 11400000, guid: 86258ed8cb3341b4ba0b38bbb4e8198f,
     type: 2}
-  talents: []
+  talents:
+  - talentName: Quick March
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Sociology
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Maritime Cartography
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Spear Training
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Equestrian Master
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Cannon Training
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Anthropology
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 1
+  - talentName: War Engineering
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 1
+  - talentName: Natural History
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: Foreign Affairs
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 2
+  - talentName: Fine Rhetoric
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Ambassador's Ceremony
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 3
+  - talentName: Human Psychology
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  - talentName: Advanced Tactics
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Logic Practice
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Rhetoric
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Cartographer
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Contract Theory
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Sensiblity Madness
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
   vizierIndex: 52
   size: 0.826
   YPositionFix: -284

@@ -1,0 +1,83 @@
+
+minister_70.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 443, 185
+  size: 78, 16
+  orig: 78, 16
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 461, 165
+  size: 72, 313
+  orig: 72, 313
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 874, 765
+  size: 114, 245
+  orig: 114, 245
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 535, 314
+  size: 105, 164
+  orig: 105, 164
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 652, 551
+  size: 177, 223
+  orig: 177, 223
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 265
+  size: 457, 745
+  orig: 457, 745
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 652, 776
+  size: 220, 234
+  orig: 220, 234
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 287, 18
+  size: 113, 110
+  orig: 113, 110
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 2, 2
+  size: 126, 283
+  orig: 126, 283
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 2, 130
+  size: 133, 439
+  orig: 133, 439
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 461, 480
+  size: 189, 530
+  orig: 189, 530
+  offset: 0, 0
+  index: -1

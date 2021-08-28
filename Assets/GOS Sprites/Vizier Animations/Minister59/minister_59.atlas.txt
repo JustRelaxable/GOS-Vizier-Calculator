@@ -1,0 +1,179 @@
+
+minister_59_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 2, 15
+  size: 82, 19
+  orig: 82, 19
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 36
+  size: 149, 598
+  orig: 149, 598
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 153, 70
+  size: 564, 458
+  orig: 564, 458
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 636
+  size: 743, 380
+  orig: 743, 380
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 747, 794
+  size: 222, 257
+  orig: 222, 257
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/1/A_00000
+  rotate: false
+  xy: 613, 319
+  size: 360, 315
+  orig: 360, 315
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/1/A_00001
+  rotate: false
+  xy: 613, 2
+  size: 360, 315
+  orig: 360, 315
+  offset: 0, 0
+  index: -1
+
+minister_59_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 328, 277
+  orig: 328, 277
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 281
+  size: 425, 715
+  orig: 425, 715
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/1/A_00002
+  rotate: false
+  xy: 429, 681
+  size: 360, 315
+  orig: 360, 315
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/1/A_00003
+  rotate: false
+  xy: 429, 364
+  size: 360, 315
+  orig: 360, 315
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/1/A_00004
+  rotate: false
+  xy: 429, 47
+  size: 360, 315
+  orig: 360, 315
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/2/B_00000
+  rotate: true
+  xy: 791, 546
+  size: 450, 180
+  orig: 450, 180
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/2/B_00001
+  rotate: true
+  xy: 791, 94
+  size: 450, 180
+  orig: 450, 180
+  offset: 0, 0
+  index: -1
+
+minister_59_3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+59-Vizier-sfx/1/A_00005
+  rotate: false
+  xy: 2, 683
+  size: 360, 315
+  orig: 360, 315
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/1/A_00006
+  rotate: false
+  xy: 2, 366
+  size: 360, 315
+  orig: 360, 315
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/1/A_00007
+  rotate: false
+  xy: 364, 683
+  size: 360, 315
+  orig: 360, 315
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/2/B_00002
+  rotate: false
+  xy: 2, 184
+  size: 450, 180
+  orig: 450, 180
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/2/B_00003
+  rotate: false
+  xy: 2, 2
+  size: 450, 180
+  orig: 450, 180
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/2/B_00004
+  rotate: false
+  xy: 364, 501
+  size: 450, 180
+  orig: 450, 180
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/2/B_00005
+  rotate: true
+  xy: 454, 49
+  size: 450, 180
+  orig: 450, 180
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/2/B_00006
+  rotate: true
+  xy: 636, 49
+  size: 450, 180
+  orig: 450, 180
+  offset: 0, 0
+  index: -1
+59-Vizier-sfx/2/B_00007
+  rotate: true
+  xy: 816, 548
+  size: 450, 180
+  orig: 450, 180
+  offset: 0, 0
+  index: -1

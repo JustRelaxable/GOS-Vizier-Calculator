@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Minister61
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Hare
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: d0fe42d3d71e32a45809144c604e37b0,
+    type: 2}
+  talents:
+  - talentName: Flanking Maneuvers
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Naval Command
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Social Order
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 2
+  - talentName: Empathy
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 3
+  - talentName: Heroic Horse-Riding
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Heart of Selfless
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 3
+  - talentName: Master Strategist
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 1
+  - talentName: Gifted Military Leader
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Fearless Leader
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Military Leader
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Accurate Swordsmanship
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Capable Commander
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Thoughtful Planner
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Outstanding Talent
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Great Fame
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Well-educated Fighter
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Considerate
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Unshakable Loyalty
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Great Integrity
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  vizierIndex: 61
+  size: 0.7
+  YPositionFix: -350

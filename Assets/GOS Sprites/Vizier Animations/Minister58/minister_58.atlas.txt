@@ -1,0 +1,318 @@
+
+minister_58_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 971, 938
+  size: 84, 27
+  orig: 84, 27
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 705, 751
+  size: 264, 271
+  orig: 264, 271
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 776, 2
+  size: 168, 241
+  orig: 168, 241
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 2, 242
+  size: 701, 780
+  orig: 701, 780
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 776, 172
+  size: 246, 577
+  orig: 246, 577
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/2/B_00000
+  rotate: false
+  xy: 2, 16
+  size: 256, 224
+  orig: 256, 224
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/2/B_00001
+  rotate: false
+  xy: 260, 16
+  size: 256, 224
+  orig: 256, 224
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/2/B_00002
+  rotate: false
+  xy: 518, 16
+  size: 256, 224
+  orig: 256, 224
+  offset: 0, 0
+  index: -1
+
+minister_58_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: false
+  xy: 630, 78
+  size: 126, 197
+  orig: 126, 197
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 816, 228
+  size: 146, 248
+  orig: 146, 248
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 816, 478
+  size: 191, 521
+  orig: 191, 521
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 634
+  size: 410, 365
+  orig: 410, 365
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/1/A_00000
+  rotate: false
+  xy: 228, 86
+  size: 112, 184
+  orig: 112, 184
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/2/B_00003
+  rotate: true
+  xy: 404, 19
+  size: 256, 224
+  orig: 256, 224
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/2/B_00004
+  rotate: false
+  xy: 758, 2
+  size: 256, 224
+  orig: 256, 224
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/2/B_00005
+  rotate: true
+  xy: 2, 14
+  size: 256, 224
+  orig: 256, 224
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/4/D_00000
+  rotate: false
+  xy: 414, 639
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/4/D_00001
+  rotate: false
+  xy: 414, 277
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/4/D_00002
+  rotate: false
+  xy: 2, 272
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+
+minister_58_3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+58-warrior-politics-sfx/1/A_00001
+  rotate: false
+  xy: 586, 52
+  size: 112, 184
+  orig: 112, 184
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/1/A_00002
+  rotate: true
+  xy: 700, 80
+  size: 112, 184
+  orig: 112, 184
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/1/A_00003
+  rotate: false
+  xy: 886, 8
+  size: 112, 184
+  orig: 112, 184
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/1/A_00004
+  rotate: true
+  xy: 2, 2
+  size: 112, 184
+  orig: 112, 184
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/1/A_00005
+  rotate: true
+  xy: 188, 2
+  size: 112, 184
+  orig: 112, 184
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/1/A_00006
+  rotate: true
+  xy: 374, 2
+  size: 112, 184
+  orig: 112, 184
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/2/B_00006
+  rotate: true
+  xy: 766, 744
+  size: 256, 224
+  orig: 256, 224
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/2/B_00007
+  rotate: true
+  xy: 766, 486
+  size: 256, 224
+  orig: 256, 224
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/3/C_00000
+  rotate: false
+  xy: 766, 340
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/3/C_00001
+  rotate: false
+  xy: 766, 194
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/3/C_00002
+  rotate: false
+  xy: 888, 340
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/3/C_00003
+  rotate: false
+  xy: 888, 194
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/3/C_00004
+  rotate: true
+  xy: 2, 116
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/3/C_00005
+  rotate: true
+  xy: 148, 116
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/3/C_00006
+  rotate: true
+  xy: 294, 116
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/3/C_00007
+  rotate: true
+  xy: 440, 116
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/4/D_00003
+  rotate: false
+  xy: 2, 640
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/4/D_00004
+  rotate: true
+  xy: 404, 600
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/4/D_00005
+  rotate: true
+  xy: 2, 238
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/4/D_00006
+  rotate: false
+  xy: 364, 238
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+
+minister_58_4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03
+  rotate: true
+  xy: 188, 5
+  size: 109, 183
+  orig: 109, 183
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/1/A_00007
+  rotate: true
+  xy: 2, 2
+  size: 112, 184
+  orig: 112, 184
+  offset: 0, 0
+  index: -1
+58-warrior-politics-sfx/4/D_00007
+  rotate: false
+  xy: 2, 116
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1

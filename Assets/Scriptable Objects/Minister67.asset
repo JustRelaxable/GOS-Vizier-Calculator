@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Minister67
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Nasuh
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: e713f1fd1b35dfc4796d19e3131fd9e4,
+    type: 2}
+  talents:
+  - talentName: Sociology
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Self-Defense
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 0
+  - talentName: Anthropology
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 1
+  - talentName: Macroeconomics
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 2
+  - talentName: Minority Rights
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 3
+  - talentName: Rhetoric
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  vizierIndex: 67
+  size: 0.55
+  YPositionFix: -450

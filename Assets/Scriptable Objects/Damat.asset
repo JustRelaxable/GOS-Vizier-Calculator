@@ -16,7 +16,87 @@ MonoBehaviour:
   vizierName: Damat
   vizierSkeletonDataAsset: {fileID: 11400000, guid: c6166e490087c74469d5364ae6a0d1ac,
     type: 2}
-  talents: []
+  talents:
+  - talentName: Strategic Plan
+    talentStar: 1
+    currentStar: 1
+    talentAttribute: 0
+  - talentName: Matrak Combat
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Quick March
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Sociology
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Eastern Campaign
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Master Linguist
+    talentStar: 1
+    currentStar: 1
+    talentAttribute: 1
+  - talentName: Timar Landownership
+    talentStar: 1
+    currentStar: 1
+    talentAttribute: 2
+  - talentName: Ritual Mastery
+    talentStar: 1
+    currentStar: 1
+    talentAttribute: 3
+  - talentName: Logic Practice
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Pharmacology
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Rhetoric
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Weather Forecaster
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Rational Critic
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Contract Theory
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Diplomatic Vision
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Artistic
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Sensibility Madness
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Lobbyist
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Sophistry
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Kindheartedness
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
   vizierIndex: 49
   size: 1.1154
   YPositionFix: -191

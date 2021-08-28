@@ -16,7 +16,87 @@ MonoBehaviour:
   vizierName: Piri Reis
   vizierSkeletonDataAsset: {fileID: 11400000, guid: db68784f012a5c348a275b2fb4bce346,
     type: 2}
-  talents: []
+  talents:
+  - talentName: General Cartography
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Quick March
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Eastern Campaign
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Maritime Cartography
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Target Practice
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 0
+  - talentName: Geography Science
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 1
+  - talentName: Natureal History
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: Cultural Adaptation
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: Foreign Affairs
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 2
+  - talentName: Legal Practice
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Conflict Resolution
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Natural Awareness
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Creative Training
+    talentStar: 2
+    currentStar: 2
+    talentAttribute: 3
+  - talentName: Ottoman Poetry
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  - talentName: Weather Forecaster
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Cartographer
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Artistic
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Sensibility Madness
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Lobbyist
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Faithful
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
   vizierIndex: 56
   size: 0.83
   YPositionFix: -288

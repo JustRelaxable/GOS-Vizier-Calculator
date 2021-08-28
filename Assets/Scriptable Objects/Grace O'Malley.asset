@@ -16,7 +16,83 @@ MonoBehaviour:
   vizierName: Grace O'Malley
   vizierSkeletonDataAsset: {fileID: 11400000, guid: 40ad8fe05adaa074e8df9d834325d2cf,
     type: 2}
-  talents: []
+  talents:
+  - talentName: Matrak Combat
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Quick March
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Sociology
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Eastern Campaign
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Mounted Archery
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Yatagan Mastery
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Equestrian Master
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Behavioral Science
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 1
+  - talentName: History of War
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: Domestic Affairs
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 2
+  - talentName: Agricultural Policy
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Marksmanship
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 3
+  - talentName: Close Quarters Fighting
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 3
+  - talentName: Self-Reliance
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  - talentName: Pharmacology
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Artistic
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Lobbyist
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Sophistry
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Faithful
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
   vizierIndex: 53
   size: 0.75
   YPositionFix: -317

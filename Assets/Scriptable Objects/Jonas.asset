@@ -16,7 +16,55 @@ MonoBehaviour:
   vizierName: Jonas
   vizierSkeletonDataAsset: {fileID: 11400000, guid: 5527d95c19da1ae4faecc0887319ba38,
     type: 2}
-  talents: []
+  talents:
+  - talentName: Spear Training
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Equestrian Master
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Cannon Training
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Behavioral Science
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 1
+  - talentName: War Engieneering
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 1
+  - talentName: Philosophical Training
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 1
+  - talentName: Ambassador's Ceremony
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 3
+  - talentName: Close Quarters Figting
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 3
+  - talentName: Army Administration
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 3
+  - talentName: Diplomatic Vision
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Artistic
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Nature and Society
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
   vizierIndex: 48
   size: 1.0929
   YPositionFix: -199

@@ -4021,13 +4021,13 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'First of all, welcome to my app :)
 
-    
 
-    In this application, I
-    aimed to give you more information about your viziers. The numbers may be difficult
+
+    In this application, I aimed
+    to give you more information about your viziers. The numbers may be difficult
     to understand at first, but I''m sure you''ll understand over time.
 
-    
+
 
     The
     first thing you need to know is the "Efficiency List".'
@@ -5608,7 +5608,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d6b24119fd614a409f3eaa2d692ec1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  appVersion: 1.1.0
+  appVersion: 1.2.0
   currentVersion: 
   updatePanel: {fileID: 1244921718}
 --- !u!4 &1668460098

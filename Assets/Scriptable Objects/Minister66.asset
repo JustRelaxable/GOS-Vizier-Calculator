@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaa28a0aba31ca4891722a9396132f0, type: 3}
+  m_Name: Minister66
+  m_EditorClassIdentifier: 
+  vizierLevel: 1
+  vizierName: Amira
+  vizierSkeletonDataAsset: {fileID: 11400000, guid: 3c02f0bbf469e2b40ae231f14bd6f76a,
+    type: 2}
+  talents:
+  - talentName: Wild Hunt
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Stealthy
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Expertise
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 0
+  - talentName: Mastery of Poison
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Embattled
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Skillful
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 1
+  - talentName: Considerate
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Intelligent
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Negotiator
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 2
+  - talentName: Courageous
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Phantom
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
+  - talentName: Leadership
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 3
+  vizierIndex: 66
+  size: 0.75
+  YPositionFix: -350

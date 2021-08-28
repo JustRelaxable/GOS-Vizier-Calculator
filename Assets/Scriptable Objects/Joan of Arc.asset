@@ -16,7 +16,55 @@ MonoBehaviour:
   vizierName: Joan of Arc
   vizierSkeletonDataAsset: {fileID: 11400000, guid: 01b32699692dcf546adc6bbf3a170061,
     type: 2}
-  talents: []
+  talents:
+  - talentName: Yesuken Mastery
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 0
+  - talentName: Otooman Pugilism
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 0
+  - talentName: Cannon Training
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Philosophical Training
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 1
+  - talentName: Linguistics
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 1
+  - talentName: Multiculturalism
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 2
+  - talentName: Natural Awareness
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 2
+  - talentName: Empathy
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 3
+  - talentName: Armor Practice
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  - talentName: Weather Forecaster
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 1
+  - talentName: Rational Critic
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 2
+  - talentName: Sensibility Madness
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 3
   vizierIndex: 51
   size: 1.05
   YPositionFix: -205

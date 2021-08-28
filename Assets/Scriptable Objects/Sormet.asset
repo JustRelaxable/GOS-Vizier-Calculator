@@ -16,7 +16,39 @@ MonoBehaviour:
   vizierName: Sormet
   vizierSkeletonDataAsset: {fileID: 11400000, guid: d2a937d115b705243bbccc04f80f4134,
     type: 2}
-  talents: []
+  talents:
+  - talentName: Sword and Shield
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 0
+  - talentName: Soyokan Combat
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 0
+  - talentName: Eastern Campaign
+    talentStar: 6
+    currentStar: 6
+    talentAttribute: 0
+  - talentName: Anthropology
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 1
+  - talentName: Art of LEadership
+    talentStar: 2
+    currentStar: 2
+    talentAttribute: 2
+  - talentName: Chess Mastery
+    talentStar: 3
+    currentStar: 3
+    talentAttribute: 3
+  - talentName: Devshirme Recruitment
+    talentStar: 5
+    currentStar: 5
+    talentAttribute: 3
+  - talentName: Empathy
+    talentStar: 4
+    currentStar: 4
+    talentAttribute: 3
   vizierIndex: 35
   size: 1.0706
   YPositionFix: -213
