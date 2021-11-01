@@ -16,7 +16,7 @@ public class EfficiencyCard : MonoBehaviour
     public Text prestigeEfficiencyText;
     public Image imageOfVizier;
     public LocalizedTextComponent localizedText;
-    public static bool adWatched = false;
+    public static bool adWatched = true;
 
     private void Awake()
     {
